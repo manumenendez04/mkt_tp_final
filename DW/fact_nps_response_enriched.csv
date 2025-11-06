@@ -1,0 +1,2693 @@
+nps_sk,nps_id,customer_sk,channel_sk,responded_date_sk,score,comment,comment_length
+1,13000000000,1083,1,0,10.0,,3
+2,13000000001,1383,1,0,5.0,Volvería a comprar,18
+3,13000000002,179,1,0,10.0,Atención muy buena,18
+4,13000000003,566,1,0,7.0,Todo perfecto,13
+5,13000000004,1004,1,0,8.0,Atención muy buena,18
+6,13000000005,1261,1,0,10.0,Tardó un poco más de lo esperado,32
+7,13000000006,1376,1,0,6.0,Todo perfecto,13
+8,13000000007,837,1,0,3.0,Volvería a comprar,18
+9,13000000008,994,1,0,7.0,Todo perfecto,13
+10,13000000009,192,1,0,8.0,Entrega rápida y producto excelente,35
+11,13000000010,1330,1,0,6.0,,3
+12,13000000011,442,2,0,0.0,Atención muy buena,18
+13,13000000012,57,1,0,7.0,Atención muy buena,18
+14,13000000013,559,1,0,8.0,Entrega rápida y producto excelente,35
+15,13000000014,130,1,0,10.0,Muy conforme con la calidad,27
+16,13000000015,238,2,0,4.0,Volvería a comprar,18
+17,13000000016,629,1,0,8.0,Entrega rápida y producto excelente,35
+18,13000000017,1162,2,0,7.0,Entrega rápida y producto excelente,35
+19,13000000018,80,2,0,9.0,Entrega rápida y producto excelente,35
+20,13000000019,1233,2,0,2.0,Muy conforme con la calidad,27
+21,13000000020,217,1,0,2.0,Entrega rápida y producto excelente,35
+22,13000000021,1015,2,0,5.0,Volvería a comprar,18
+23,13000000022,1086,2,0,7.0,Atención muy buena,18
+24,13000000023,692,1,0,9.0,Muy conforme con la calidad,27
+25,13000000024,960,1,0,6.0,Podría mejorar el empaque,25
+26,13000000025,695,2,0,2.0,Volvería a comprar,18
+27,13000000026,438,1,0,10.0,Volvería a comprar,18
+28,13000000027,564,1,0,9.0,Muy conforme con la calidad,27
+29,13000000028,1261,1,0,7.0,Volvería a comprar,18
+30,13000000029,1122,2,0,4.0,Atención muy buena,18
+31,13000000030,1427,1,0,5.0,Muy conforme con la calidad,27
+32,13000000031,661,1,0,10.0,Podría mejorar el empaque,25
+33,13000000032,1055,2,0,8.0,Todo perfecto,13
+34,13000000033,321,2,0,8.0,Podría mejorar el empaque,25
+35,13000000034,500,1,0,10.0,Atención muy buena,18
+36,13000000035,544,1,0,8.0,Volvería a comprar,18
+37,13000000036,1405,2,0,8.0,Atención muy buena,18
+38,13000000037,952,1,0,5.0,Podría mejorar el empaque,25
+39,13000000038,128,2,0,3.0,Entrega rápida y producto excelente,35
+40,13000000039,342,2,0,8.0,Tardó un poco más de lo esperado,32
+41,13000000040,19,2,0,3.0,Podría mejorar el empaque,25
+42,13000000041,189,1,0,8.0,Muy conforme con la calidad,27
+43,13000000042,797,1,0,4.0,Todo perfecto,13
+44,13000000043,1004,2,0,8.0,Entrega rápida y producto excelente,35
+45,13000000044,426,2,0,9.0,Todo perfecto,13
+46,13000000045,1026,1,0,8.0,Muy conforme con la calidad,27
+47,13000000046,812,2,0,7.0,,3
+48,13000000047,994,1,0,10.0,Entrega rápida y producto excelente,35
+49,13000000048,1171,2,0,10.0,,3
+50,13000000049,1207,2,0,2.0,Podría mejorar el empaque,25
+51,13000000050,1467,1,0,8.0,Todo perfecto,13
+52,13000000051,1484,2,0,8.0,Muy conforme con la calidad,27
+53,13000000052,815,1,0,9.0,Atención muy buena,18
+54,13000000053,500,1,0,9.0,Todo perfecto,13
+55,13000000054,1048,2,0,10.0,,3
+56,13000000055,19,1,0,7.0,Entrega rápida y producto excelente,35
+57,13000000056,804,2,0,7.0,Podría mejorar el empaque,25
+58,13000000057,500,2,0,9.0,Entrega rápida y producto excelente,35
+59,13000000058,1179,2,0,7.0,Podría mejorar el empaque,25
+60,13000000059,902,2,0,9.0,Entrega rápida y producto excelente,35
+61,13000000060,548,1,0,6.0,Atención muy buena,18
+62,13000000061,1335,1,0,9.0,Volvería a comprar,18
+63,13000000062,903,1,0,10.0,,3
+64,13000000063,807,1,0,8.0,Todo perfecto,13
+65,13000000064,43,2,0,7.0,Tardó un poco más de lo esperado,32
+66,13000000065,1189,2,0,8.0,Todo perfecto,13
+67,13000000066,554,1,0,7.0,Entrega rápida y producto excelente,35
+68,13000000067,1411,1,0,9.0,Podría mejorar el empaque,25
+69,13000000068,990,1,0,2.0,Podría mejorar el empaque,25
+70,13000000069,581,2,0,8.0,Entrega rápida y producto excelente,35
+71,13000000070,1214,2,0,2.0,Muy conforme con la calidad,27
+72,13000000071,1182,1,0,8.0,,3
+73,13000000072,56,2,0,9.0,Muy conforme con la calidad,27
+74,13000000073,1443,1,0,9.0,Muy conforme con la calidad,27
+75,13000000074,822,1,0,9.0,Podría mejorar el empaque,25
+76,13000000075,18,1,0,7.0,Atención muy buena,18
+77,13000000076,436,1,0,8.0,Podría mejorar el empaque,25
+78,13000000077,558,2,0,9.0,Volvería a comprar,18
+79,13000000078,1202,2,0,9.0,Todo perfecto,13
+80,13000000079,1412,2,0,0.0,Podría mejorar el empaque,25
+81,13000000080,1336,2,0,6.0,Tardó un poco más de lo esperado,32
+82,13000000081,1336,1,0,7.0,Muy conforme con la calidad,27
+83,13000000082,1224,2,0,10.0,,3
+84,13000000083,859,1,0,9.0,Atención muy buena,18
+85,13000000084,818,1,0,10.0,Volvería a comprar,18
+86,13000000085,816,2,0,6.0,Entrega rápida y producto excelente,35
+87,13000000086,653,1,0,9.0,Muy conforme con la calidad,27
+88,13000000087,1056,1,0,8.0,Tardó un poco más de lo esperado,32
+89,13000000088,1037,1,0,7.0,Entrega rápida y producto excelente,35
+90,13000000089,959,2,0,8.0,Podría mejorar el empaque,25
+91,13000000090,1406,1,0,6.0,Atención muy buena,18
+92,13000000091,1296,1,0,9.0,Entrega rápida y producto excelente,35
+93,13000000092,629,1,0,5.0,Atención muy buena,18
+94,13000000093,439,2,0,4.0,Tardó un poco más de lo esperado,32
+95,13000000094,1423,1,0,8.0,Todo perfecto,13
+96,13000000095,1336,2,0,8.0,Podría mejorar el empaque,25
+97,13000000096,1453,2,0,6.0,,3
+98,13000000097,722,1,0,8.0,Podría mejorar el empaque,25
+99,13000000098,616,1,0,10.0,Volvería a comprar,18
+100,13000000099,1104,1,0,10.0,Todo perfecto,13
+101,13000000100,1004,1,0,4.0,Tardó un poco más de lo esperado,32
+102,13000000101,304,2,0,9.0,Podría mejorar el empaque,25
+103,13000000102,114,2,0,10.0,Atención muy buena,18
+104,13000000103,248,2,0,9.0,Entrega rápida y producto excelente,35
+105,13000000104,208,1,0,5.0,Podría mejorar el empaque,25
+106,13000000105,445,1,0,10.0,Tardó un poco más de lo esperado,32
+107,13000000106,1304,2,0,10.0,Volvería a comprar,18
+108,13000000107,1493,1,0,7.0,Muy conforme con la calidad,27
+109,13000000108,1123,1,0,8.0,Entrega rápida y producto excelente,35
+110,13000000109,174,2,0,5.0,Podría mejorar el empaque,25
+111,13000000110,825,1,0,8.0,Podría mejorar el empaque,25
+112,13000000111,1120,2,0,4.0,Todo perfecto,13
+113,13000000112,1101,1,0,3.0,Atención muy buena,18
+114,13000000113,659,2,0,7.0,Tardó un poco más de lo esperado,32
+115,13000000114,1379,1,0,7.0,Tardó un poco más de lo esperado,32
+116,13000000115,550,2,0,9.0,Volvería a comprar,18
+117,13000000116,1177,1,0,7.0,Todo perfecto,13
+118,13000000117,1149,1,0,9.0,Todo perfecto,13
+119,13000000118,236,1,0,9.0,Volvería a comprar,18
+120,13000000119,226,1,0,9.0,Volvería a comprar,18
+121,13000000120,850,2,0,6.0,Entrega rápida y producto excelente,35
+122,13000000121,599,1,0,8.0,Volvería a comprar,18
+123,13000000122,1230,2,0,9.0,Entrega rápida y producto excelente,35
+124,13000000123,1177,1,0,7.0,Volvería a comprar,18
+125,13000000124,728,1,0,9.0,Todo perfecto,13
+126,13000000125,268,2,0,7.0,Podría mejorar el empaque,25
+127,13000000126,980,2,0,8.0,Atención muy buena,18
+128,13000000127,902,2,0,5.0,Muy conforme con la calidad,27
+129,13000000128,800,2,0,4.0,Podría mejorar el empaque,25
+130,13000000129,1447,1,0,10.0,Podría mejorar el empaque,25
+131,13000000130,130,1,0,7.0,Entrega rápida y producto excelente,35
+132,13000000131,1176,2,0,9.0,Podría mejorar el empaque,25
+133,13000000132,771,2,0,8.0,Entrega rápida y producto excelente,35
+134,13000000133,158,1,0,0.0,Atención muy buena,18
+135,13000000134,811,1,0,1.0,,3
+136,13000000135,1369,1,0,8.0,Podría mejorar el empaque,25
+137,13000000136,131,2,0,8.0,Atención muy buena,18
+138,13000000137,69,2,0,9.0,,3
+139,13000000138,395,1,0,9.0,Muy conforme con la calidad,27
+140,13000000139,1106,2,0,6.0,Entrega rápida y producto excelente,35
+141,13000000140,4,1,0,0.0,Atención muy buena,18
+142,13000000141,292,1,0,7.0,,3
+143,13000000142,1467,1,0,5.0,Entrega rápida y producto excelente,35
+144,13000000143,317,1,0,1.0,Todo perfecto,13
+145,13000000144,1374,2,0,10.0,Todo perfecto,13
+146,13000000145,607,1,0,6.0,,3
+147,13000000146,661,1,0,8.0,,3
+148,13000000147,315,1,0,7.0,,3
+149,13000000148,522,2,0,0.0,Podría mejorar el empaque,25
+150,13000000149,697,1,0,2.0,Entrega rápida y producto excelente,35
+151,13000000150,1351,1,0,5.0,Todo perfecto,13
+152,13000000151,1209,2,0,9.0,Tardó un poco más de lo esperado,32
+153,13000000152,93,1,0,8.0,Tardó un poco más de lo esperado,32
+154,13000000153,8,2,0,8.0,,3
+155,13000000154,1487,1,0,8.0,Todo perfecto,13
+156,13000000155,501,1,0,9.0,,3
+157,13000000156,949,1,0,8.0,,3
+158,13000000157,745,1,0,10.0,Atención muy buena,18
+159,13000000158,58,2,0,8.0,Atención muy buena,18
+160,13000000159,1226,1,0,9.0,Muy conforme con la calidad,27
+161,13000000160,952,2,0,8.0,Podría mejorar el empaque,25
+162,13000000161,1424,1,0,7.0,Podría mejorar el empaque,25
+163,13000000162,146,1,0,8.0,Volvería a comprar,18
+164,13000000163,831,1,0,3.0,Todo perfecto,13
+165,13000000164,991,1,0,0.0,Tardó un poco más de lo esperado,32
+166,13000000165,485,1,0,8.0,Tardó un poco más de lo esperado,32
+167,13000000166,789,2,0,4.0,Volvería a comprar,18
+168,13000000167,1456,1,0,1.0,Entrega rápida y producto excelente,35
+169,13000000168,1341,2,0,8.0,Todo perfecto,13
+170,13000000169,993,1,0,7.0,Entrega rápida y producto excelente,35
+171,13000000170,710,2,0,8.0,,3
+172,13000000171,609,1,0,6.0,,3
+173,13000000172,763,1,0,4.0,Tardó un poco más de lo esperado,32
+174,13000000173,1356,1,0,1.0,Volvería a comprar,18
+175,13000000174,1275,2,0,7.0,Entrega rápida y producto excelente,35
+176,13000000175,490,2,0,9.0,Todo perfecto,13
+177,13000000176,523,1,0,9.0,,3
+178,13000000177,1234,2,0,9.0,Volvería a comprar,18
+179,13000000178,1163,1,0,8.0,,3
+180,13000000179,406,2,0,8.0,Atención muy buena,18
+181,13000000180,835,1,0,2.0,Volvería a comprar,18
+182,13000000181,320,1,0,8.0,Volvería a comprar,18
+183,13000000182,414,1,0,7.0,Muy conforme con la calidad,27
+184,13000000183,1463,1,0,9.0,,3
+185,13000000184,928,2,0,10.0,,3
+186,13000000185,643,1,0,9.0,Podría mejorar el empaque,25
+187,13000000186,999,2,0,2.0,,3
+188,13000000187,207,1,0,7.0,Muy conforme con la calidad,27
+189,13000000188,641,1,0,0.0,Entrega rápida y producto excelente,35
+190,13000000189,1110,1,0,1.0,Podría mejorar el empaque,25
+191,13000000190,1062,1,0,8.0,Todo perfecto,13
+192,13000000191,698,1,0,1.0,,3
+193,13000000192,1236,1,0,10.0,Todo perfecto,13
+194,13000000193,755,1,0,8.0,Volvería a comprar,18
+195,13000000194,329,1,0,7.0,Podría mejorar el empaque,25
+196,13000000195,800,1,0,7.0,Todo perfecto,13
+197,13000000196,678,1,0,10.0,Todo perfecto,13
+198,13000000197,1383,1,0,10.0,Tardó un poco más de lo esperado,32
+199,13000000198,1251,1,0,10.0,Todo perfecto,13
+200,13000000199,1252,1,0,7.0,Entrega rápida y producto excelente,35
+201,13000000200,283,1,0,5.0,Todo perfecto,13
+202,13000000201,907,2,0,2.0,Todo perfecto,13
+203,13000000202,893,1,0,1.0,Entrega rápida y producto excelente,35
+204,13000000203,413,2,0,8.0,Volvería a comprar,18
+205,13000000204,788,2,0,10.0,Podría mejorar el empaque,25
+206,13000000205,350,2,0,8.0,Todo perfecto,13
+207,13000000206,758,2,0,5.0,Muy conforme con la calidad,27
+208,13000000207,699,2,0,10.0,Muy conforme con la calidad,27
+209,13000000208,689,1,0,9.0,Tardó un poco más de lo esperado,32
+210,13000000209,348,1,0,1.0,Tardó un poco más de lo esperado,32
+211,13000000210,974,1,0,9.0,Entrega rápida y producto excelente,35
+212,13000000211,444,1,0,7.0,Muy conforme con la calidad,27
+213,13000000212,96,1,0,9.0,Tardó un poco más de lo esperado,32
+214,13000000213,674,1,0,7.0,Podría mejorar el empaque,25
+215,13000000214,867,1,0,8.0,Muy conforme con la calidad,27
+216,13000000215,686,1,0,7.0,,3
+217,13000000216,640,1,0,10.0,Todo perfecto,13
+218,13000000217,1191,1,0,9.0,Entrega rápida y producto excelente,35
+219,13000000218,321,2,0,5.0,Volvería a comprar,18
+220,13000000219,1045,1,0,3.0,Entrega rápida y producto excelente,35
+221,13000000220,644,2,0,10.0,Atención muy buena,18
+222,13000000221,514,2,0,8.0,Todo perfecto,13
+223,13000000222,649,1,0,6.0,,3
+224,13000000223,1294,2,0,5.0,Podría mejorar el empaque,25
+225,13000000224,814,2,0,4.0,Volvería a comprar,18
+226,13000000225,801,1,0,7.0,Entrega rápida y producto excelente,35
+227,13000000226,351,1,0,5.0,Todo perfecto,13
+228,13000000227,838,2,0,8.0,Todo perfecto,13
+229,13000000228,78,1,0,6.0,Podría mejorar el empaque,25
+230,13000000229,1338,1,0,2.0,Podría mejorar el empaque,25
+231,13000000230,182,2,0,7.0,,3
+232,13000000231,560,1,0,4.0,Atención muy buena,18
+233,13000000232,1390,1,0,6.0,,3
+234,13000000233,130,2,0,4.0,Tardó un poco más de lo esperado,32
+235,13000000234,1143,2,0,2.0,Muy conforme con la calidad,27
+236,13000000235,223,2,0,7.0,Atención muy buena,18
+237,13000000236,622,1,0,2.0,Volvería a comprar,18
+238,13000000237,1328,1,0,9.0,Muy conforme con la calidad,27
+239,13000000238,1192,1,0,7.0,Tardó un poco más de lo esperado,32
+240,13000000239,119,1,0,2.0,Tardó un poco más de lo esperado,32
+241,13000000240,1115,1,0,8.0,Podría mejorar el empaque,25
+242,13000000241,49,1,0,8.0,Todo perfecto,13
+243,13000000242,1133,2,0,5.0,Muy conforme con la calidad,27
+244,13000000243,193,1,0,9.0,Volvería a comprar,18
+245,13000000244,539,1,0,6.0,Tardó un poco más de lo esperado,32
+246,13000000245,200,1,0,7.0,Podría mejorar el empaque,25
+247,13000000246,1084,1,0,10.0,Podría mejorar el empaque,25
+248,13000000247,422,2,0,10.0,Entrega rápida y producto excelente,35
+249,13000000248,348,2,0,6.0,Entrega rápida y producto excelente,35
+250,13000000249,951,1,0,9.0,Volvería a comprar,18
+251,13000000250,251,2,0,7.0,Tardó un poco más de lo esperado,32
+252,13000000251,26,1,0,8.0,Atención muy buena,18
+253,13000000252,1063,2,0,6.0,Volvería a comprar,18
+254,13000000253,271,1,0,8.0,Podría mejorar el empaque,25
+255,13000000254,567,1,0,9.0,Entrega rápida y producto excelente,35
+256,13000000255,254,1,0,9.0,Atención muy buena,18
+257,13000000256,66,2,0,6.0,Entrega rápida y producto excelente,35
+258,13000000257,518,1,0,0.0,Entrega rápida y producto excelente,35
+259,13000000258,603,1,0,7.0,Tardó un poco más de lo esperado,32
+260,13000000259,321,1,0,4.0,,3
+261,13000000260,1210,2,0,9.0,Tardó un poco más de lo esperado,32
+262,13000000261,407,2,0,7.0,Atención muy buena,18
+263,13000000262,996,2,0,9.0,Podría mejorar el empaque,25
+264,13000000263,1192,2,0,8.0,Tardó un poco más de lo esperado,32
+265,13000000264,221,1,0,1.0,Podría mejorar el empaque,25
+266,13000000265,1189,1,0,6.0,Muy conforme con la calidad,27
+267,13000000266,1230,1,0,9.0,Todo perfecto,13
+268,13000000267,244,1,0,6.0,Podría mejorar el empaque,25
+269,13000000268,416,1,0,6.0,Entrega rápida y producto excelente,35
+270,13000000269,289,2,0,7.0,,3
+271,13000000270,233,1,0,0.0,Todo perfecto,13
+272,13000000271,300,1,0,7.0,Todo perfecto,13
+273,13000000272,1066,1,0,5.0,Atención muy buena,18
+274,13000000273,854,2,0,10.0,Atención muy buena,18
+275,13000000274,1339,1,0,7.0,Tardó un poco más de lo esperado,32
+276,13000000275,484,1,0,10.0,Todo perfecto,13
+277,13000000276,948,1,0,6.0,Entrega rápida y producto excelente,35
+278,13000000277,713,1,0,6.0,Tardó un poco más de lo esperado,32
+279,13000000278,1466,1,0,9.0,Entrega rápida y producto excelente,35
+280,13000000279,426,1,0,7.0,Atención muy buena,18
+281,13000000280,1313,1,0,0.0,Todo perfecto,13
+282,13000000281,995,1,0,4.0,Muy conforme con la calidad,27
+283,13000000282,499,1,0,8.0,Tardó un poco más de lo esperado,32
+284,13000000283,1408,2,0,7.0,Tardó un poco más de lo esperado,32
+285,13000000284,498,1,0,8.0,Entrega rápida y producto excelente,35
+286,13000000285,840,1,0,6.0,Muy conforme con la calidad,27
+287,13000000286,92,1,0,9.0,Tardó un poco más de lo esperado,32
+288,13000000287,1449,2,0,9.0,Tardó un poco más de lo esperado,32
+289,13000000288,1129,2,0,7.0,Entrega rápida y producto excelente,35
+290,13000000289,972,2,0,8.0,,3
+291,13000000290,260,2,0,8.0,Volvería a comprar,18
+292,13000000291,683,2,0,4.0,Tardó un poco más de lo esperado,32
+293,13000000292,1042,1,0,2.0,Volvería a comprar,18
+294,13000000293,1422,1,0,6.0,Muy conforme con la calidad,27
+295,13000000294,1347,2,0,9.0,,3
+296,13000000295,705,2,0,8.0,Muy conforme con la calidad,27
+297,13000000296,1306,2,0,10.0,Entrega rápida y producto excelente,35
+298,13000000297,327,2,0,0.0,Entrega rápida y producto excelente,35
+299,13000000298,1119,1,0,5.0,Podría mejorar el empaque,25
+300,13000000299,2,1,0,10.0,Muy conforme con la calidad,27
+301,13000000300,988,1,0,8.0,Podría mejorar el empaque,25
+302,13000000301,1485,1,0,8.0,Atención muy buena,18
+303,13000000302,791,1,0,8.0,Volvería a comprar,18
+304,13000000303,204,1,0,9.0,Podría mejorar el empaque,25
+305,13000000304,22,2,0,8.0,Entrega rápida y producto excelente,35
+306,13000000305,510,2,0,1.0,,3
+307,13000000306,614,2,0,9.0,,3
+308,13000000307,27,2,0,9.0,Podría mejorar el empaque,25
+309,13000000308,1319,2,0,6.0,Todo perfecto,13
+310,13000000309,845,1,0,9.0,Volvería a comprar,18
+311,13000000310,783,2,0,5.0,Muy conforme con la calidad,27
+312,13000000311,1350,1,0,9.0,,3
+313,13000000312,773,1,0,7.0,Todo perfecto,13
+314,13000000313,1457,1,0,4.0,Tardó un poco más de lo esperado,32
+315,13000000314,1488,1,0,9.0,Atención muy buena,18
+316,13000000315,1286,1,0,10.0,Muy conforme con la calidad,27
+317,13000000316,1306,1,0,9.0,Tardó un poco más de lo esperado,32
+318,13000000317,397,2,0,8.0,Podría mejorar el empaque,25
+319,13000000318,341,1,0,4.0,Entrega rápida y producto excelente,35
+320,13000000319,1475,2,0,9.0,Entrega rápida y producto excelente,35
+321,13000000320,963,1,0,5.0,Entrega rápida y producto excelente,35
+322,13000000321,423,1,0,9.0,Todo perfecto,13
+323,13000000322,1176,2,0,9.0,Entrega rápida y producto excelente,35
+324,13000000323,1128,2,0,8.0,Tardó un poco más de lo esperado,32
+325,13000000324,56,1,0,8.0,Todo perfecto,13
+326,13000000325,389,2,0,5.0,Atención muy buena,18
+327,13000000326,598,2,0,9.0,Podría mejorar el empaque,25
+328,13000000327,2,2,0,7.0,Todo perfecto,13
+329,13000000328,118,2,0,8.0,Volvería a comprar,18
+330,13000000329,835,1,0,10.0,,3
+331,13000000330,554,1,0,7.0,Todo perfecto,13
+332,13000000331,371,1,0,10.0,,3
+333,13000000332,965,1,0,9.0,Volvería a comprar,18
+334,13000000333,687,2,0,6.0,Atención muy buena,18
+335,13000000334,516,1,0,9.0,,3
+336,13000000335,1295,2,0,8.0,Volvería a comprar,18
+337,13000000336,660,1,0,4.0,Tardó un poco más de lo esperado,32
+338,13000000337,838,2,0,8.0,,3
+339,13000000338,447,2,0,8.0,Atención muy buena,18
+340,13000000339,1187,2,0,4.0,Volvería a comprar,18
+341,13000000340,1457,1,0,7.0,Entrega rápida y producto excelente,35
+342,13000000341,16,1,0,7.0,Podría mejorar el empaque,25
+343,13000000342,1421,1,0,0.0,Tardó un poco más de lo esperado,32
+344,13000000343,861,1,0,9.0,Muy conforme con la calidad,27
+345,13000000344,515,1,0,2.0,Todo perfecto,13
+346,13000000345,280,1,0,10.0,Entrega rápida y producto excelente,35
+347,13000000346,829,1,0,7.0,Podría mejorar el empaque,25
+348,13000000347,1319,1,0,10.0,Entrega rápida y producto excelente,35
+349,13000000348,682,1,0,10.0,Tardó un poco más de lo esperado,32
+350,13000000349,649,1,0,7.0,Entrega rápida y producto excelente,35
+351,13000000350,1041,1,0,8.0,Todo perfecto,13
+352,13000000351,559,2,0,9.0,Tardó un poco más de lo esperado,32
+353,13000000352,1187,2,0,9.0,Muy conforme con la calidad,27
+354,13000000353,786,1,0,6.0,Todo perfecto,13
+355,13000000354,1104,1,0,6.0,Todo perfecto,13
+356,13000000355,505,2,0,4.0,Volvería a comprar,18
+357,13000000356,436,1,0,0.0,Atención muy buena,18
+358,13000000357,366,1,0,5.0,Atención muy buena,18
+359,13000000358,829,2,0,8.0,Tardó un poco más de lo esperado,32
+360,13000000359,570,1,0,5.0,Atención muy buena,18
+361,13000000360,573,2,0,10.0,Entrega rápida y producto excelente,35
+362,13000000361,63,1,0,8.0,Todo perfecto,13
+363,13000000362,140,1,0,10.0,Muy conforme con la calidad,27
+364,13000000363,650,2,0,9.0,Volvería a comprar,18
+365,13000000364,558,1,0,7.0,Volvería a comprar,18
+366,13000000365,498,2,0,9.0,,3
+367,13000000366,1337,2,0,10.0,Podría mejorar el empaque,25
+368,13000000367,192,1,0,9.0,Volvería a comprar,18
+369,13000000368,523,1,0,1.0,Tardó un poco más de lo esperado,32
+370,13000000369,1009,1,0,5.0,Entrega rápida y producto excelente,35
+371,13000000370,1079,1,0,8.0,Atención muy buena,18
+372,13000000371,809,1,0,9.0,Podría mejorar el empaque,25
+373,13000000372,332,1,0,8.0,Atención muy buena,18
+374,13000000373,397,1,0,8.0,Tardó un poco más de lo esperado,32
+375,13000000374,950,2,0,8.0,Tardó un poco más de lo esperado,32
+376,13000000375,950,1,0,10.0,Todo perfecto,13
+377,13000000376,1071,1,0,7.0,Tardó un poco más de lo esperado,32
+378,13000000377,27,1,0,5.0,Atención muy buena,18
+379,13000000378,1063,1,0,5.0,Muy conforme con la calidad,27
+380,13000000379,930,1,0,10.0,Atención muy buena,18
+381,13000000380,1435,2,0,1.0,Podría mejorar el empaque,25
+382,13000000381,258,2,0,10.0,Atención muy buena,18
+383,13000000382,847,1,0,4.0,Volvería a comprar,18
+384,13000000383,921,2,0,10.0,Muy conforme con la calidad,27
+385,13000000384,1231,1,0,7.0,Tardó un poco más de lo esperado,32
+386,13000000385,292,1,0,10.0,Podría mejorar el empaque,25
+387,13000000386,325,2,0,3.0,Volvería a comprar,18
+388,13000000387,921,2,0,3.0,Atención muy buena,18
+389,13000000388,248,1,0,2.0,,3
+390,13000000389,754,1,0,8.0,,3
+391,13000000390,708,1,0,9.0,,3
+392,13000000391,48,1,0,6.0,Podría mejorar el empaque,25
+393,13000000392,786,2,0,5.0,Atención muy buena,18
+394,13000000393,382,1,0,4.0,,3
+395,13000000394,895,1,0,6.0,Tardó un poco más de lo esperado,32
+396,13000000395,821,1,0,7.0,Entrega rápida y producto excelente,35
+397,13000000396,1032,1,0,9.0,Todo perfecto,13
+398,13000000397,1262,1,0,1.0,Todo perfecto,13
+399,13000000398,153,1,0,9.0,Muy conforme con la calidad,27
+400,13000000399,816,1,0,1.0,Todo perfecto,13
+401,13000000400,237,1,0,7.0,Todo perfecto,13
+402,13000000401,589,2,0,10.0,Podría mejorar el empaque,25
+403,13000000402,249,2,0,6.0,Atención muy buena,18
+404,13000000403,1130,2,0,2.0,Volvería a comprar,18
+405,13000000404,455,1,0,3.0,Volvería a comprar,18
+406,13000000405,1306,1,0,0.0,Podría mejorar el empaque,25
+407,13000000406,1359,1,0,9.0,Atención muy buena,18
+408,13000000407,696,1,0,7.0,Volvería a comprar,18
+409,13000000408,867,1,0,7.0,Todo perfecto,13
+410,13000000409,690,1,0,10.0,Podría mejorar el empaque,25
+411,13000000410,14,1,0,7.0,Volvería a comprar,18
+412,13000000411,259,2,0,2.0,,3
+413,13000000412,334,1,0,3.0,Todo perfecto,13
+414,13000000413,574,1,0,9.0,Todo perfecto,13
+415,13000000414,716,1,0,10.0,Volvería a comprar,18
+416,13000000415,204,2,0,8.0,Todo perfecto,13
+417,13000000416,624,2,0,10.0,Volvería a comprar,18
+418,13000000417,535,1,0,9.0,Volvería a comprar,18
+419,13000000418,522,1,0,7.0,Entrega rápida y producto excelente,35
+420,13000000419,589,1,0,9.0,Tardó un poco más de lo esperado,32
+421,13000000420,1485,1,0,9.0,Muy conforme con la calidad,27
+422,13000000421,544,1,0,9.0,Volvería a comprar,18
+423,13000000422,253,1,0,9.0,Atención muy buena,18
+424,13000000423,520,1,0,8.0,Podría mejorar el empaque,25
+425,13000000424,1339,1,0,8.0,Volvería a comprar,18
+426,13000000425,800,1,0,10.0,Tardó un poco más de lo esperado,32
+427,13000000426,782,2,0,9.0,Entrega rápida y producto excelente,35
+428,13000000427,488,2,0,3.0,Tardó un poco más de lo esperado,32
+429,13000000428,1074,1,0,6.0,Todo perfecto,13
+430,13000000429,789,2,0,9.0,Muy conforme con la calidad,27
+431,13000000430,951,1,0,3.0,Tardó un poco más de lo esperado,32
+432,13000000431,1210,1,0,8.0,,3
+433,13000000432,977,2,0,3.0,Volvería a comprar,18
+434,13000000433,489,2,0,8.0,Tardó un poco más de lo esperado,32
+435,13000000434,1192,2,0,9.0,Entrega rápida y producto excelente,35
+436,13000000435,1461,2,0,5.0,Volvería a comprar,18
+437,13000000436,28,1,0,6.0,Volvería a comprar,18
+438,13000000437,459,2,0,9.0,,3
+439,13000000438,756,1,0,2.0,Entrega rápida y producto excelente,35
+440,13000000439,1495,1,0,8.0,Podría mejorar el empaque,25
+441,13000000440,584,1,0,7.0,Todo perfecto,13
+442,13000000441,703,1,0,2.0,Atención muy buena,18
+443,13000000442,1309,2,0,7.0,Atención muy buena,18
+444,13000000443,323,2,0,7.0,Muy conforme con la calidad,27
+445,13000000444,90,1,0,8.0,Muy conforme con la calidad,27
+446,13000000445,761,1,0,5.0,Tardó un poco más de lo esperado,32
+447,13000000446,999,1,0,9.0,,3
+448,13000000447,85,1,0,9.0,Entrega rápida y producto excelente,35
+449,13000000448,405,1,0,8.0,Podría mejorar el empaque,25
+450,13000000449,336,2,0,2.0,Muy conforme con la calidad,27
+451,13000000450,179,1,0,9.0,Entrega rápida y producto excelente,35
+452,13000000451,682,2,0,8.0,Entrega rápida y producto excelente,35
+453,13000000452,862,2,0,8.0,Tardó un poco más de lo esperado,32
+454,13000000453,1218,1,0,5.0,Todo perfecto,13
+455,13000000454,31,1,0,7.0,Todo perfecto,13
+456,13000000455,154,1,0,10.0,,3
+457,13000000456,1049,2,0,10.0,Podría mejorar el empaque,25
+458,13000000457,586,1,0,10.0,Atención muy buena,18
+459,13000000458,425,2,0,10.0,Volvería a comprar,18
+460,13000000459,1235,1,0,8.0,Podría mejorar el empaque,25
+461,13000000460,52,1,0,10.0,Tardó un poco más de lo esperado,32
+462,13000000461,78,2,0,3.0,Entrega rápida y producto excelente,35
+463,13000000462,405,1,0,7.0,Entrega rápida y producto excelente,35
+464,13000000463,381,2,0,7.0,Podría mejorar el empaque,25
+465,13000000464,284,1,0,10.0,Podría mejorar el empaque,25
+466,13000000465,867,1,0,0.0,Tardó un poco más de lo esperado,32
+467,13000000466,626,1,0,8.0,,3
+468,13000000467,195,1,0,9.0,Entrega rápida y producto excelente,35
+469,13000000468,467,1,0,7.0,Tardó un poco más de lo esperado,32
+470,13000000469,1107,2,0,7.0,Tardó un poco más de lo esperado,32
+471,13000000470,580,1,0,8.0,Muy conforme con la calidad,27
+472,13000000471,942,2,0,7.0,Todo perfecto,13
+473,13000000472,1354,2,0,10.0,Podría mejorar el empaque,25
+474,13000000473,540,1,0,4.0,Muy conforme con la calidad,27
+475,13000000474,1161,1,0,6.0,Entrega rápida y producto excelente,35
+476,13000000475,895,1,0,8.0,Todo perfecto,13
+477,13000000476,399,1,0,6.0,,3
+478,13000000477,77,1,0,10.0,Tardó un poco más de lo esperado,32
+479,13000000478,754,2,0,0.0,,3
+480,13000000479,1253,1,0,7.0,Podría mejorar el empaque,25
+481,13000000480,1117,1,0,6.0,Muy conforme con la calidad,27
+482,13000000481,413,1,0,6.0,Volvería a comprar,18
+483,13000000482,40,2,0,8.0,Atención muy buena,18
+484,13000000483,403,1,0,1.0,Entrega rápida y producto excelente,35
+485,13000000484,1482,1,0,6.0,Todo perfecto,13
+486,13000000485,790,1,0,9.0,Podría mejorar el empaque,25
+487,13000000486,891,1,0,0.0,Entrega rápida y producto excelente,35
+488,13000000487,819,2,0,7.0,Muy conforme con la calidad,27
+489,13000000488,474,2,0,9.0,,3
+490,13000000489,1332,1,0,8.0,Entrega rápida y producto excelente,35
+491,13000000490,305,1,0,4.0,Todo perfecto,13
+492,13000000491,400,2,0,7.0,Atención muy buena,18
+493,13000000492,415,2,0,9.0,Todo perfecto,13
+494,13000000493,739,2,0,9.0,Tardó un poco más de lo esperado,32
+495,13000000494,45,1,0,4.0,Muy conforme con la calidad,27
+496,13000000495,584,2,0,8.0,Todo perfecto,13
+497,13000000496,305,1,0,9.0,Entrega rápida y producto excelente,35
+498,13000000497,1061,2,0,4.0,Volvería a comprar,18
+499,13000000498,1051,2,0,9.0,Todo perfecto,13
+500,13000000499,981,1,0,8.0,Podría mejorar el empaque,25
+501,13000000500,381,1,0,7.0,Entrega rápida y producto excelente,35
+502,13000000501,866,1,0,2.0,Tardó un poco más de lo esperado,32
+503,13000000502,323,1,0,9.0,Podría mejorar el empaque,25
+504,13000000503,1223,2,0,8.0,Muy conforme con la calidad,27
+505,13000000504,728,2,0,3.0,Podría mejorar el empaque,25
+506,13000000505,176,1,0,8.0,Muy conforme con la calidad,27
+507,13000000506,620,1,0,3.0,Atención muy buena,18
+508,13000000507,11,2,0,8.0,Atención muy buena,18
+509,13000000508,866,1,0,5.0,Podría mejorar el empaque,25
+510,13000000509,609,1,0,9.0,Volvería a comprar,18
+511,13000000510,662,1,0,6.0,Entrega rápida y producto excelente,35
+512,13000000511,1304,2,0,3.0,Podría mejorar el empaque,25
+513,13000000512,1358,1,0,5.0,Entrega rápida y producto excelente,35
+514,13000000513,1396,2,0,8.0,Tardó un poco más de lo esperado,32
+515,13000000514,921,1,0,7.0,Todo perfecto,13
+516,13000000515,193,2,0,9.0,Todo perfecto,13
+517,13000000516,1366,1,0,7.0,Podría mejorar el empaque,25
+518,13000000517,4,2,0,8.0,,3
+519,13000000518,373,1,0,4.0,Entrega rápida y producto excelente,35
+520,13000000519,3,2,0,10.0,Todo perfecto,13
+521,13000000520,156,2,0,2.0,Muy conforme con la calidad,27
+522,13000000521,1274,2,0,6.0,Muy conforme con la calidad,27
+523,13000000522,1200,1,0,9.0,Volvería a comprar,18
+524,13000000523,1271,2,0,9.0,Podría mejorar el empaque,25
+525,13000000524,1089,1,0,10.0,Todo perfecto,13
+526,13000000525,1399,2,0,9.0,Entrega rápida y producto excelente,35
+527,13000000526,20,1,0,8.0,Volvería a comprar,18
+528,13000000527,874,2,0,9.0,Atención muy buena,18
+529,13000000528,919,2,0,7.0,Tardó un poco más de lo esperado,32
+530,13000000529,885,1,0,9.0,Podría mejorar el empaque,25
+531,13000000530,123,2,0,2.0,Muy conforme con la calidad,27
+532,13000000531,301,1,0,10.0,Todo perfecto,13
+533,13000000532,1172,1,0,5.0,Todo perfecto,13
+534,13000000533,1334,2,0,7.0,Todo perfecto,13
+535,13000000534,1462,2,0,3.0,Volvería a comprar,18
+536,13000000535,1393,2,0,8.0,Atención muy buena,18
+537,13000000536,1220,1,0,10.0,Todo perfecto,13
+538,13000000537,1355,1,0,0.0,Podría mejorar el empaque,25
+539,13000000538,27,2,0,8.0,Tardó un poco más de lo esperado,32
+540,13000000539,921,1,0,3.0,Volvería a comprar,18
+541,13000000540,1469,2,0,9.0,Volvería a comprar,18
+542,13000000541,1228,1,0,9.0,Muy conforme con la calidad,27
+543,13000000542,1123,2,0,7.0,Tardó un poco más de lo esperado,32
+544,13000000543,125,1,0,8.0,Entrega rápida y producto excelente,35
+545,13000000544,476,1,0,9.0,,3
+546,13000000545,833,1,0,5.0,Volvería a comprar,18
+547,13000000546,253,1,0,10.0,Muy conforme con la calidad,27
+548,13000000547,398,1,0,9.0,Podría mejorar el empaque,25
+549,13000000548,253,2,0,9.0,Todo perfecto,13
+550,13000000549,206,2,0,9.0,Atención muy buena,18
+551,13000000550,899,1,0,8.0,Muy conforme con la calidad,27
+552,13000000551,1254,1,0,3.0,Tardó un poco más de lo esperado,32
+553,13000000552,1317,2,0,10.0,Podría mejorar el empaque,25
+554,13000000553,466,1,0,8.0,,3
+555,13000000554,191,1,0,9.0,Atención muy buena,18
+556,13000000555,362,2,0,10.0,Muy conforme con la calidad,27
+557,13000000556,263,1,0,7.0,,3
+558,13000000557,1473,2,0,10.0,Entrega rápida y producto excelente,35
+559,13000000558,1494,1,0,10.0,Muy conforme con la calidad,27
+560,13000000559,359,1,0,3.0,Muy conforme con la calidad,27
+561,13000000560,181,1,0,10.0,Todo perfecto,13
+562,13000000561,682,1,0,10.0,Volvería a comprar,18
+563,13000000562,1142,1,0,9.0,Entrega rápida y producto excelente,35
+564,13000000563,475,1,0,8.0,Entrega rápida y producto excelente,35
+565,13000000564,541,1,0,10.0,Atención muy buena,18
+566,13000000565,1344,1,0,10.0,Todo perfecto,13
+567,13000000566,561,2,0,10.0,Muy conforme con la calidad,27
+568,13000000567,981,2,0,8.0,Podría mejorar el empaque,25
+569,13000000568,311,1,0,7.0,Muy conforme con la calidad,27
+570,13000000569,1007,2,0,7.0,Atención muy buena,18
+571,13000000570,952,2,0,6.0,,3
+572,13000000571,1464,1,0,8.0,Atención muy buena,18
+573,13000000572,863,2,0,9.0,Todo perfecto,13
+574,13000000573,724,2,0,6.0,Todo perfecto,13
+575,13000000574,612,1,0,7.0,Atención muy buena,18
+576,13000000575,382,1,0,5.0,Entrega rápida y producto excelente,35
+577,13000000576,311,1,0,8.0,Todo perfecto,13
+578,13000000577,1041,2,0,9.0,Podría mejorar el empaque,25
+579,13000000578,816,1,0,7.0,Atención muy buena,18
+580,13000000579,189,2,0,6.0,Volvería a comprar,18
+581,13000000580,1133,2,0,0.0,Todo perfecto,13
+582,13000000581,1095,1,0,7.0,Volvería a comprar,18
+583,13000000582,468,2,0,1.0,Todo perfecto,13
+584,13000000583,416,2,0,1.0,Muy conforme con la calidad,27
+585,13000000584,707,1,0,10.0,Volvería a comprar,18
+586,13000000585,1375,1,0,7.0,Atención muy buena,18
+587,13000000586,689,2,0,7.0,Atención muy buena,18
+588,13000000587,759,2,0,7.0,Atención muy buena,18
+589,13000000588,152,2,0,7.0,Atención muy buena,18
+590,13000000589,724,2,0,5.0,Tardó un poco más de lo esperado,32
+591,13000000590,495,1,0,6.0,Muy conforme con la calidad,27
+592,13000000591,1104,1,0,4.0,,3
+593,13000000592,1158,1,0,0.0,,3
+594,13000000593,932,1,0,9.0,Todo perfecto,13
+595,13000000594,150,1,0,2.0,Volvería a comprar,18
+596,13000000595,323,2,0,2.0,Podría mejorar el empaque,25
+597,13000000596,536,1,0,5.0,Atención muy buena,18
+598,13000000597,1245,1,0,10.0,Todo perfecto,13
+599,13000000598,1284,1,0,6.0,Podría mejorar el empaque,25
+600,13000000599,1168,1,0,3.0,Muy conforme con la calidad,27
+601,13000000600,1346,1,0,10.0,Podría mejorar el empaque,25
+602,13000000601,213,1,0,7.0,Muy conforme con la calidad,27
+603,13000000602,311,2,0,7.0,Atención muy buena,18
+604,13000000603,32,2,0,9.0,Entrega rápida y producto excelente,35
+605,13000000604,606,1,0,7.0,Atención muy buena,18
+606,13000000605,1309,2,0,9.0,Volvería a comprar,18
+607,13000000606,833,1,0,7.0,Volvería a comprar,18
+608,13000000607,1123,2,0,9.0,Entrega rápida y producto excelente,35
+609,13000000608,878,2,0,8.0,Tardó un poco más de lo esperado,32
+610,13000000609,1317,2,0,8.0,,3
+611,13000000610,218,2,0,9.0,Entrega rápida y producto excelente,35
+612,13000000611,1456,1,0,8.0,Volvería a comprar,18
+613,13000000612,987,1,0,9.0,Muy conforme con la calidad,27
+614,13000000613,75,2,0,10.0,Volvería a comprar,18
+615,13000000614,649,2,0,1.0,Volvería a comprar,18
+616,13000000615,1095,1,0,6.0,Atención muy buena,18
+617,13000000616,1136,2,0,9.0,Tardó un poco más de lo esperado,32
+618,13000000617,1046,1,0,7.0,Atención muy buena,18
+619,13000000618,1339,2,0,8.0,Todo perfecto,13
+620,13000000619,724,1,0,3.0,Volvería a comprar,18
+621,13000000620,32,2,0,0.0,Muy conforme con la calidad,27
+622,13000000621,728,1,0,8.0,Atención muy buena,18
+623,13000000622,299,1,0,7.0,Atención muy buena,18
+624,13000000623,299,1,0,5.0,Muy conforme con la calidad,27
+625,13000000624,404,1,0,7.0,Podría mejorar el empaque,25
+626,13000000625,138,2,0,10.0,Muy conforme con la calidad,27
+627,13000000626,1270,1,0,9.0,Entrega rápida y producto excelente,35
+628,13000000627,1116,1,0,7.0,Todo perfecto,13
+629,13000000628,239,1,0,5.0,Entrega rápida y producto excelente,35
+630,13000000629,849,2,0,10.0,Volvería a comprar,18
+631,13000000630,1432,2,0,9.0,Volvería a comprar,18
+632,13000000631,109,2,0,0.0,Entrega rápida y producto excelente,35
+633,13000000632,117,2,0,9.0,Volvería a comprar,18
+634,13000000633,1007,2,0,2.0,Podría mejorar el empaque,25
+635,13000000634,473,2,0,9.0,Atención muy buena,18
+636,13000000635,188,1,0,9.0,Todo perfecto,13
+637,13000000636,960,1,0,9.0,Podría mejorar el empaque,25
+638,13000000637,298,1,0,9.0,Todo perfecto,13
+639,13000000638,1146,1,0,10.0,Tardó un poco más de lo esperado,32
+640,13000000639,790,1,0,10.0,Muy conforme con la calidad,27
+641,13000000640,114,1,0,10.0,Atención muy buena,18
+642,13000000641,778,1,0,8.0,Muy conforme con la calidad,27
+643,13000000642,1380,1,0,2.0,,3
+644,13000000643,1265,2,0,8.0,,3
+645,13000000644,171,1,0,7.0,Muy conforme con la calidad,27
+646,13000000645,384,1,0,6.0,Podría mejorar el empaque,25
+647,13000000646,917,1,0,9.0,Tardó un poco más de lo esperado,32
+648,13000000647,1262,2,0,0.0,Tardó un poco más de lo esperado,32
+649,13000000648,1174,1,0,6.0,Atención muy buena,18
+650,13000000649,312,1,0,10.0,Todo perfecto,13
+651,13000000650,1107,1,0,6.0,Podría mejorar el empaque,25
+652,13000000651,786,1,0,8.0,Entrega rápida y producto excelente,35
+653,13000000652,956,1,0,6.0,Muy conforme con la calidad,27
+654,13000000653,227,2,0,7.0,Muy conforme con la calidad,27
+655,13000000654,1339,1,0,9.0,Entrega rápida y producto excelente,35
+656,13000000655,79,1,0,6.0,,3
+657,13000000656,515,1,0,9.0,Volvería a comprar,18
+658,13000000657,1098,1,0,8.0,,3
+659,13000000658,254,1,0,6.0,Todo perfecto,13
+660,13000000659,1459,1,0,1.0,Todo perfecto,13
+661,13000000660,688,2,0,8.0,Muy conforme con la calidad,27
+662,13000000661,1356,2,0,7.0,Atención muy buena,18
+663,13000000662,1409,2,0,1.0,Podría mejorar el empaque,25
+664,13000000663,512,1,0,9.0,Tardó un poco más de lo esperado,32
+665,13000000664,284,1,0,7.0,Todo perfecto,13
+666,13000000665,79,2,0,2.0,Muy conforme con la calidad,27
+667,13000000666,1246,1,0,7.0,Volvería a comprar,18
+668,13000000667,343,2,0,7.0,Entrega rápida y producto excelente,35
+669,13000000668,387,1,0,7.0,,3
+670,13000000669,682,2,0,8.0,Entrega rápida y producto excelente,35
+671,13000000670,778,1,0,7.0,Tardó un poco más de lo esperado,32
+672,13000000671,507,1,0,6.0,,3
+673,13000000672,640,1,0,10.0,Volvería a comprar,18
+674,13000000673,1249,1,0,7.0,Todo perfecto,13
+675,13000000674,958,1,0,8.0,Volvería a comprar,18
+676,13000000675,1259,1,0,7.0,Podría mejorar el empaque,25
+677,13000000676,1441,1,0,10.0,Volvería a comprar,18
+678,13000000677,379,2,0,9.0,Podría mejorar el empaque,25
+679,13000000678,115,1,0,7.0,Atención muy buena,18
+680,13000000679,1496,2,0,8.0,,3
+681,13000000680,1435,1,0,7.0,Muy conforme con la calidad,27
+682,13000000681,1271,1,0,3.0,Podría mejorar el empaque,25
+683,13000000682,643,1,0,9.0,Volvería a comprar,18
+684,13000000683,1006,2,0,6.0,Volvería a comprar,18
+685,13000000684,672,1,0,10.0,Entrega rápida y producto excelente,35
+686,13000000685,439,1,0,0.0,Todo perfecto,13
+687,13000000686,928,1,0,1.0,Tardó un poco más de lo esperado,32
+688,13000000687,705,1,0,6.0,Todo perfecto,13
+689,13000000688,717,2,0,8.0,Podría mejorar el empaque,25
+690,13000000689,622,2,0,7.0,Podría mejorar el empaque,25
+691,13000000690,90,2,0,7.0,Tardó un poco más de lo esperado,32
+692,13000000691,1101,2,0,10.0,,3
+693,13000000692,1362,1,0,9.0,Tardó un poco más de lo esperado,32
+694,13000000693,644,2,0,9.0,Volvería a comprar,18
+695,13000000694,265,1,0,9.0,Muy conforme con la calidad,27
+696,13000000695,506,1,0,8.0,,3
+697,13000000696,737,1,0,0.0,,3
+698,13000000697,1294,1,0,10.0,Podría mejorar el empaque,25
+699,13000000698,204,1,0,8.0,Entrega rápida y producto excelente,35
+700,13000000699,1246,1,0,10.0,Volvería a comprar,18
+701,13000000700,314,1,0,1.0,Tardó un poco más de lo esperado,32
+702,13000000701,614,2,0,10.0,Muy conforme con la calidad,27
+703,13000000702,497,2,0,8.0,Volvería a comprar,18
+704,13000000703,1267,2,0,8.0,Volvería a comprar,18
+705,13000000704,768,1,0,8.0,Atención muy buena,18
+706,13000000705,886,2,0,3.0,Muy conforme con la calidad,27
+707,13000000706,1173,1,0,1.0,,3
+708,13000000707,561,1,0,10.0,Volvería a comprar,18
+709,13000000708,59,2,0,10.0,Todo perfecto,13
+710,13000000709,951,2,0,6.0,Podría mejorar el empaque,25
+711,13000000710,790,1,0,9.0,,3
+712,13000000711,412,1,0,6.0,Atención muy buena,18
+713,13000000712,1250,2,0,3.0,Tardó un poco más de lo esperado,32
+714,13000000713,146,1,0,9.0,Tardó un poco más de lo esperado,32
+715,13000000714,670,2,0,9.0,Todo perfecto,13
+716,13000000715,595,1,0,9.0,Todo perfecto,13
+717,13000000716,1027,1,0,9.0,Volvería a comprar,18
+718,13000000717,1183,2,0,9.0,Tardó un poco más de lo esperado,32
+719,13000000718,655,1,0,9.0,Todo perfecto,13
+720,13000000719,287,1,0,9.0,Volvería a comprar,18
+721,13000000720,489,2,0,10.0,Todo perfecto,13
+722,13000000721,897,1,0,9.0,Entrega rápida y producto excelente,35
+723,13000000722,1094,1,0,7.0,Podría mejorar el empaque,25
+724,13000000723,713,2,0,7.0,Podría mejorar el empaque,25
+725,13000000724,1222,2,0,6.0,Atención muy buena,18
+726,13000000725,176,1,0,7.0,,3
+727,13000000726,1373,2,0,9.0,Muy conforme con la calidad,27
+728,13000000727,613,2,0,3.0,Tardó un poco más de lo esperado,32
+729,13000000728,1082,2,0,9.0,Todo perfecto,13
+730,13000000729,790,1,0,5.0,Tardó un poco más de lo esperado,32
+731,13000000730,173,1,0,9.0,Atención muy buena,18
+732,13000000731,800,1,0,5.0,Muy conforme con la calidad,27
+733,13000000732,1014,2,0,0.0,Muy conforme con la calidad,27
+734,13000000733,719,1,0,8.0,Entrega rápida y producto excelente,35
+735,13000000734,1247,2,0,7.0,,3
+736,13000000735,882,1,0,8.0,,3
+737,13000000736,281,1,0,7.0,Tardó un poco más de lo esperado,32
+738,13000000737,1014,2,0,6.0,Entrega rápida y producto excelente,35
+739,13000000738,621,1,0,4.0,Tardó un poco más de lo esperado,32
+740,13000000739,441,1,0,7.0,Muy conforme con la calidad,27
+741,13000000740,1062,2,0,9.0,,3
+742,13000000741,952,1,0,10.0,Tardó un poco más de lo esperado,32
+743,13000000742,496,1,0,6.0,Entrega rápida y producto excelente,35
+744,13000000743,338,1,0,5.0,Muy conforme con la calidad,27
+745,13000000744,192,1,0,7.0,Volvería a comprar,18
+746,13000000745,292,1,0,10.0,,3
+747,13000000746,483,2,0,10.0,,3
+748,13000000747,1356,1,0,3.0,Tardó un poco más de lo esperado,32
+749,13000000748,1234,2,0,8.0,,3
+750,13000000749,359,1,0,9.0,Entrega rápida y producto excelente,35
+751,13000000750,671,1,0,8.0,Volvería a comprar,18
+752,13000000751,595,2,0,9.0,,3
+753,13000000752,1405,2,0,7.0,Entrega rápida y producto excelente,35
+754,13000000753,1230,1,0,5.0,,3
+755,13000000754,173,1,0,7.0,Todo perfecto,13
+756,13000000755,130,2,0,0.0,Muy conforme con la calidad,27
+757,13000000756,1134,1,0,9.0,,3
+758,13000000757,132,1,0,8.0,Muy conforme con la calidad,27
+759,13000000758,74,2,0,0.0,Todo perfecto,13
+760,13000000759,147,2,0,5.0,Todo perfecto,13
+761,13000000760,791,1,0,10.0,,3
+762,13000000761,849,1,0,10.0,,3
+763,13000000762,84,1,0,8.0,Tardó un poco más de lo esperado,32
+764,13000000763,1313,2,0,7.0,Entrega rápida y producto excelente,35
+765,13000000764,930,2,0,9.0,Atención muy buena,18
+766,13000000765,160,2,0,3.0,Entrega rápida y producto excelente,35
+767,13000000766,1128,2,0,10.0,,3
+768,13000000767,1029,1,0,8.0,Todo perfecto,13
+769,13000000768,185,1,0,10.0,Todo perfecto,13
+770,13000000769,1144,2,0,8.0,Podría mejorar el empaque,25
+771,13000000770,930,1,0,6.0,Atención muy buena,18
+772,13000000771,774,1,0,10.0,Tardó un poco más de lo esperado,32
+773,13000000772,688,2,0,1.0,Podría mejorar el empaque,25
+774,13000000773,433,1,0,9.0,Tardó un poco más de lo esperado,32
+775,13000000774,249,1,0,9.0,Entrega rápida y producto excelente,35
+776,13000000775,279,2,0,0.0,Muy conforme con la calidad,27
+777,13000000776,1452,1,0,9.0,,3
+778,13000000777,1223,2,0,8.0,Todo perfecto,13
+779,13000000778,1385,1,0,10.0,Entrega rápida y producto excelente,35
+780,13000000779,722,1,0,9.0,Atención muy buena,18
+781,13000000780,1085,2,0,6.0,Muy conforme con la calidad,27
+782,13000000781,378,1,0,3.0,Volvería a comprar,18
+783,13000000782,54,1,0,3.0,Podría mejorar el empaque,25
+784,13000000783,727,2,0,6.0,Podría mejorar el empaque,25
+785,13000000784,1398,1,0,9.0,Todo perfecto,13
+786,13000000785,1406,1,0,4.0,Podría mejorar el empaque,25
+787,13000000786,591,1,0,10.0,Todo perfecto,13
+788,13000000787,10,2,0,9.0,Tardó un poco más de lo esperado,32
+789,13000000788,877,1,0,2.0,,3
+790,13000000789,522,2,0,8.0,Muy conforme con la calidad,27
+791,13000000790,203,2,0,7.0,Entrega rápida y producto excelente,35
+792,13000000791,1049,2,0,10.0,Entrega rápida y producto excelente,35
+793,13000000792,855,2,0,8.0,Volvería a comprar,18
+794,13000000793,584,1,0,7.0,Entrega rápida y producto excelente,35
+795,13000000794,1387,2,0,5.0,,3
+796,13000000795,571,1,0,10.0,Todo perfecto,13
+797,13000000796,791,2,0,6.0,Muy conforme con la calidad,27
+798,13000000797,106,2,0,7.0,Tardó un poco más de lo esperado,32
+799,13000000798,1114,2,0,10.0,,3
+800,13000000799,397,1,0,5.0,Volvería a comprar,18
+801,13000000800,46,2,0,9.0,Volvería a comprar,18
+802,13000000801,1260,2,0,8.0,Muy conforme con la calidad,27
+803,13000000802,1473,2,0,6.0,Podría mejorar el empaque,25
+804,13000000803,582,1,0,10.0,,3
+805,13000000804,323,1,0,8.0,Atención muy buena,18
+806,13000000805,203,1,0,7.0,Tardó un poco más de lo esperado,32
+807,13000000806,1180,1,0,8.0,Tardó un poco más de lo esperado,32
+808,13000000807,358,2,0,6.0,Entrega rápida y producto excelente,35
+809,13000000808,922,1,0,8.0,Volvería a comprar,18
+810,13000000809,645,2,0,4.0,Entrega rápida y producto excelente,35
+811,13000000810,582,1,0,7.0,Atención muy buena,18
+812,13000000811,783,2,0,2.0,Podría mejorar el empaque,25
+813,13000000812,852,1,0,0.0,Atención muy buena,18
+814,13000000813,513,1,0,2.0,Entrega rápida y producto excelente,35
+815,13000000814,169,1,0,8.0,Entrega rápida y producto excelente,35
+816,13000000815,1209,1,0,10.0,,3
+817,13000000816,147,1,0,9.0,Muy conforme con la calidad,27
+818,13000000817,185,1,0,6.0,Podría mejorar el empaque,25
+819,13000000818,739,2,0,10.0,Volvería a comprar,18
+820,13000000819,1470,2,0,7.0,Atención muy buena,18
+821,13000000820,198,1,0,8.0,Muy conforme con la calidad,27
+822,13000000821,884,1,0,8.0,Todo perfecto,13
+823,13000000822,457,1,0,10.0,Podría mejorar el empaque,25
+824,13000000823,1184,1,0,10.0,Podría mejorar el empaque,25
+825,13000000824,221,2,0,7.0,Entrega rápida y producto excelente,35
+826,13000000825,117,2,0,10.0,Volvería a comprar,18
+827,13000000826,703,2,0,6.0,Todo perfecto,13
+828,13000000827,58,1,0,10.0,Podría mejorar el empaque,25
+829,13000000828,840,1,0,8.0,Volvería a comprar,18
+830,13000000829,634,2,0,8.0,Volvería a comprar,18
+831,13000000830,914,2,0,9.0,Atención muy buena,18
+832,13000000831,1281,1,0,8.0,Atención muy buena,18
+833,13000000832,852,2,0,5.0,Atención muy buena,18
+834,13000000833,1336,2,0,7.0,Tardó un poco más de lo esperado,32
+835,13000000834,1264,1,0,1.0,Volvería a comprar,18
+836,13000000835,140,1,0,1.0,,3
+837,13000000836,162,1,0,9.0,Podría mejorar el empaque,25
+838,13000000837,460,1,0,8.0,Volvería a comprar,18
+839,13000000838,1392,1,0,5.0,Podría mejorar el empaque,25
+840,13000000839,4,2,0,9.0,Entrega rápida y producto excelente,35
+841,13000000840,1372,2,0,8.0,,3
+842,13000000841,921,2,0,7.0,Atención muy buena,18
+843,13000000842,880,1,0,8.0,Todo perfecto,13
+844,13000000843,603,2,0,10.0,Todo perfecto,13
+845,13000000844,389,1,0,5.0,Muy conforme con la calidad,27
+846,13000000845,769,2,0,8.0,Podría mejorar el empaque,25
+847,13000000846,1480,2,0,9.0,Podría mejorar el empaque,25
+848,13000000847,1352,1,0,1.0,Todo perfecto,13
+849,13000000848,1081,1,0,6.0,Todo perfecto,13
+850,13000000849,1318,2,0,10.0,Volvería a comprar,18
+851,13000000850,1129,2,0,8.0,Muy conforme con la calidad,27
+852,13000000851,495,1,0,7.0,Muy conforme con la calidad,27
+853,13000000852,586,1,0,10.0,Entrega rápida y producto excelente,35
+854,13000000853,554,1,0,7.0,Entrega rápida y producto excelente,35
+855,13000000854,440,1,0,1.0,Muy conforme con la calidad,27
+856,13000000855,212,1,0,8.0,Entrega rápida y producto excelente,35
+857,13000000856,538,1,0,8.0,Muy conforme con la calidad,27
+858,13000000857,588,2,0,0.0,Atención muy buena,18
+859,13000000858,1135,1,0,7.0,Atención muy buena,18
+860,13000000859,452,1,0,7.0,Podría mejorar el empaque,25
+861,13000000860,26,1,0,5.0,Entrega rápida y producto excelente,35
+862,13000000861,33,2,0,10.0,Muy conforme con la calidad,27
+863,13000000862,229,1,0,9.0,Entrega rápida y producto excelente,35
+864,13000000863,1155,1,0,10.0,Volvería a comprar,18
+865,13000000864,843,1,0,6.0,Muy conforme con la calidad,27
+866,13000000865,570,2,0,8.0,Tardó un poco más de lo esperado,32
+867,13000000866,1208,1,0,8.0,Tardó un poco más de lo esperado,32
+868,13000000867,275,1,0,7.0,Entrega rápida y producto excelente,35
+869,13000000868,529,1,0,6.0,Tardó un poco más de lo esperado,32
+870,13000000869,599,2,0,10.0,Atención muy buena,18
+871,13000000870,333,1,0,5.0,Todo perfecto,13
+872,13000000871,6,1,0,9.0,Muy conforme con la calidad,27
+873,13000000872,549,1,0,9.0,Atención muy buena,18
+874,13000000873,1427,2,0,6.0,Muy conforme con la calidad,27
+875,13000000874,1237,1,0,7.0,Entrega rápida y producto excelente,35
+876,13000000875,432,2,0,8.0,Volvería a comprar,18
+877,13000000876,657,1,0,7.0,Tardó un poco más de lo esperado,32
+878,13000000877,730,1,0,9.0,Todo perfecto,13
+879,13000000878,824,2,0,7.0,Tardó un poco más de lo esperado,32
+880,13000000879,1001,1,0,9.0,,3
+881,13000000880,188,1,0,8.0,Atención muy buena,18
+882,13000000881,965,1,0,6.0,,3
+883,13000000882,717,1,0,9.0,Tardó un poco más de lo esperado,32
+884,13000000883,1085,2,0,9.0,Tardó un poco más de lo esperado,32
+885,13000000884,765,1,0,9.0,Tardó un poco más de lo esperado,32
+886,13000000885,484,2,0,2.0,Volvería a comprar,18
+887,13000000886,931,1,0,6.0,Atención muy buena,18
+888,13000000887,417,1,0,10.0,Tardó un poco más de lo esperado,32
+889,13000000888,801,2,0,10.0,Tardó un poco más de lo esperado,32
+890,13000000889,501,1,0,4.0,Atención muy buena,18
+891,13000000890,1358,2,0,9.0,Volvería a comprar,18
+892,13000000891,1325,2,0,6.0,Entrega rápida y producto excelente,35
+893,13000000892,960,1,0,10.0,Muy conforme con la calidad,27
+894,13000000893,637,1,0,6.0,Volvería a comprar,18
+895,13000000894,956,2,0,2.0,Muy conforme con la calidad,27
+896,13000000895,533,2,0,7.0,Podría mejorar el empaque,25
+897,13000000896,1495,1,0,6.0,Volvería a comprar,18
+898,13000000897,1025,2,0,8.0,Podría mejorar el empaque,25
+899,13000000898,1176,1,0,10.0,Podría mejorar el empaque,25
+900,13000000899,803,2,0,8.0,Atención muy buena,18
+901,13000000900,725,1,0,6.0,Entrega rápida y producto excelente,35
+902,13000000901,938,1,0,9.0,Entrega rápida y producto excelente,35
+903,13000000902,1031,1,0,8.0,Podría mejorar el empaque,25
+904,13000000903,696,1,0,1.0,Atención muy buena,18
+905,13000000904,237,1,0,3.0,,3
+906,13000000905,1053,1,0,10.0,Entrega rápida y producto excelente,35
+907,13000000906,308,1,0,6.0,Volvería a comprar,18
+908,13000000907,672,1,0,8.0,Tardó un poco más de lo esperado,32
+909,13000000908,1147,2,0,8.0,Entrega rápida y producto excelente,35
+910,13000000909,1238,2,0,7.0,Todo perfecto,13
+911,13000000910,460,2,0,8.0,Podría mejorar el empaque,25
+912,13000000911,906,2,0,10.0,Podría mejorar el empaque,25
+913,13000000912,825,1,0,8.0,Tardó un poco más de lo esperado,32
+914,13000000913,1095,2,0,8.0,,3
+915,13000000914,435,2,0,10.0,Todo perfecto,13
+916,13000000915,585,2,0,8.0,,3
+917,13000000916,281,2,0,9.0,Tardó un poco más de lo esperado,32
+918,13000000917,82,2,0,6.0,,3
+919,13000000918,329,1,0,10.0,Muy conforme con la calidad,27
+920,13000000919,415,1,0,7.0,,3
+921,13000000920,1135,1,0,4.0,,3
+922,13000000921,1021,1,0,4.0,Volvería a comprar,18
+923,13000000922,160,1,0,4.0,,3
+924,13000000923,434,1,0,7.0,Tardó un poco más de lo esperado,32
+925,13000000924,357,2,0,4.0,Muy conforme con la calidad,27
+926,13000000925,1285,1,0,7.0,Todo perfecto,13
+927,13000000926,229,1,0,7.0,Muy conforme con la calidad,27
+928,13000000927,420,1,0,9.0,,3
+929,13000000928,2,2,0,8.0,Tardó un poco más de lo esperado,32
+930,13000000929,47,1,0,10.0,Todo perfecto,13
+931,13000000930,1163,1,0,6.0,Tardó un poco más de lo esperado,32
+932,13000000931,1423,1,0,9.0,Entrega rápida y producto excelente,35
+933,13000000932,615,1,0,4.0,Todo perfecto,13
+934,13000000933,1149,1,0,7.0,Muy conforme con la calidad,27
+935,13000000934,628,1,0,8.0,Muy conforme con la calidad,27
+936,13000000935,1247,1,0,5.0,Volvería a comprar,18
+937,13000000936,458,1,0,9.0,Tardó un poco más de lo esperado,32
+938,13000000937,95,2,0,10.0,Entrega rápida y producto excelente,35
+939,13000000938,1002,1,0,7.0,Atención muy buena,18
+940,13000000939,488,2,0,1.0,Podría mejorar el empaque,25
+941,13000000940,851,2,0,4.0,Volvería a comprar,18
+942,13000000941,509,2,0,7.0,Entrega rápida y producto excelente,35
+943,13000000942,888,1,0,10.0,Muy conforme con la calidad,27
+944,13000000943,1268,2,0,9.0,Atención muy buena,18
+945,13000000944,507,2,0,9.0,Muy conforme con la calidad,27
+946,13000000945,387,2,0,10.0,Tardó un poco más de lo esperado,32
+947,13000000946,670,1,0,2.0,Tardó un poco más de lo esperado,32
+948,13000000947,186,1,0,9.0,,3
+949,13000000948,1235,1,0,9.0,Podría mejorar el empaque,25
+950,13000000949,418,1,0,10.0,Muy conforme con la calidad,27
+951,13000000950,196,1,0,6.0,Volvería a comprar,18
+952,13000000951,304,1,0,10.0,,3
+953,13000000952,1434,2,0,9.0,,3
+954,13000000953,453,2,0,10.0,Volvería a comprar,18
+955,13000000954,1040,2,0,4.0,Tardó un poco más de lo esperado,32
+956,13000000955,107,1,0,10.0,Atención muy buena,18
+957,13000000956,887,2,0,8.0,Muy conforme con la calidad,27
+958,13000000957,837,1,0,10.0,,3
+959,13000000958,1327,1,0,9.0,Todo perfecto,13
+960,13000000959,836,1,0,9.0,Podría mejorar el empaque,25
+961,13000000960,1413,1,0,8.0,Podría mejorar el empaque,25
+962,13000000961,621,2,0,9.0,Atención muy buena,18
+963,13000000962,947,1,0,6.0,,3
+964,13000000963,1015,1,0,8.0,Entrega rápida y producto excelente,35
+965,13000000964,458,2,0,9.0,Muy conforme con la calidad,27
+966,13000000965,1462,1,0,9.0,,3
+967,13000000966,289,2,0,3.0,Todo perfecto,13
+968,13000000967,1318,2,0,0.0,Podría mejorar el empaque,25
+969,13000000968,720,2,0,6.0,Todo perfecto,13
+970,13000000969,350,2,0,7.0,Entrega rápida y producto excelente,35
+971,13000000970,1276,1,0,8.0,Volvería a comprar,18
+972,13000000971,1141,2,0,10.0,,3
+973,13000000972,640,2,0,10.0,,3
+974,13000000973,8,2,0,8.0,Todo perfecto,13
+975,13000000974,666,2,0,8.0,,3
+976,13000000975,1451,1,0,10.0,Podría mejorar el empaque,25
+977,13000000976,384,1,0,6.0,Muy conforme con la calidad,27
+978,13000000977,1130,1,0,10.0,Atención muy buena,18
+979,13000000978,547,1,0,8.0,Entrega rápida y producto excelente,35
+980,13000000979,1228,1,0,10.0,Tardó un poco más de lo esperado,32
+981,13000000980,1209,1,0,9.0,Todo perfecto,13
+982,13000000981,1489,1,0,9.0,Entrega rápida y producto excelente,35
+983,13000000982,4,1,0,10.0,Todo perfecto,13
+984,13000000983,760,1,0,9.0,Atención muy buena,18
+985,13000000984,286,1,0,9.0,Entrega rápida y producto excelente,35
+986,13000000985,951,1,0,10.0,Atención muy buena,18
+987,13000000986,487,2,0,10.0,Atención muy buena,18
+988,13000000987,1218,2,0,2.0,Atención muy buena,18
+989,13000000988,522,1,0,5.0,Entrega rápida y producto excelente,35
+990,13000000989,468,1,0,8.0,Podría mejorar el empaque,25
+991,13000000990,703,2,0,10.0,Entrega rápida y producto excelente,35
+992,13000000991,1000,1,0,9.0,Atención muy buena,18
+993,13000000992,137,2,0,10.0,,3
+994,13000000993,168,2,0,9.0,,3
+995,13000000994,452,2,0,10.0,,3
+996,13000000995,1210,2,0,2.0,Tardó un poco más de lo esperado,32
+997,13000000996,599,2,0,10.0,Podría mejorar el empaque,25
+998,13000000997,734,1,0,10.0,Tardó un poco más de lo esperado,32
+999,13000000998,27,2,0,9.0,Atención muy buena,18
+1000,13000000999,1186,1,0,10.0,Tardó un poco más de lo esperado,32
+1001,13000001000,1227,2,0,5.0,Entrega rápida y producto excelente,35
+1002,13000001001,1338,2,0,9.0,Muy conforme con la calidad,27
+1003,13000001002,1275,2,0,7.0,Entrega rápida y producto excelente,35
+1004,13000001003,934,1,0,6.0,Todo perfecto,13
+1005,13000001004,883,2,0,10.0,Tardó un poco más de lo esperado,32
+1006,13000001005,624,1,0,8.0,,3
+1007,13000001006,1272,1,0,7.0,Podría mejorar el empaque,25
+1008,13000001007,746,2,0,10.0,,3
+1009,13000001008,858,1,0,8.0,Tardó un poco más de lo esperado,32
+1010,13000001009,393,1,0,10.0,Volvería a comprar,18
+1011,13000001010,990,1,0,10.0,Entrega rápida y producto excelente,35
+1012,13000001011,769,1,0,7.0,Volvería a comprar,18
+1013,13000001012,496,1,0,2.0,Muy conforme con la calidad,27
+1014,13000001013,401,1,0,7.0,Tardó un poco más de lo esperado,32
+1015,13000001014,1042,1,0,10.0,Todo perfecto,13
+1016,13000001015,1101,2,0,6.0,,3
+1017,13000001016,15,1,0,9.0,,3
+1018,13000001017,748,1,0,7.0,Podría mejorar el empaque,25
+1019,13000001018,825,1,0,10.0,Atención muy buena,18
+1020,13000001019,957,2,0,7.0,Entrega rápida y producto excelente,35
+1021,13000001020,528,1,0,3.0,Tardó un poco más de lo esperado,32
+1022,13000001021,1422,1,0,1.0,Volvería a comprar,18
+1023,13000001022,71,1,0,5.0,Entrega rápida y producto excelente,35
+1024,13000001023,1375,2,0,5.0,Tardó un poco más de lo esperado,32
+1025,13000001024,504,2,0,9.0,Entrega rápida y producto excelente,35
+1026,13000001025,1257,2,0,8.0,Podría mejorar el empaque,25
+1027,13000001026,1165,2,0,2.0,Muy conforme con la calidad,27
+1028,13000001027,39,1,0,8.0,Tardó un poco más de lo esperado,32
+1029,13000001028,102,2,0,3.0,Muy conforme con la calidad,27
+1030,13000001029,863,1,0,7.0,,3
+1031,13000001030,494,1,0,3.0,Entrega rápida y producto excelente,35
+1032,13000001031,1132,1,0,5.0,Muy conforme con la calidad,27
+1033,13000001032,723,1,0,9.0,Volvería a comprar,18
+1034,13000001033,280,2,0,9.0,Podría mejorar el empaque,25
+1035,13000001034,765,1,0,8.0,Todo perfecto,13
+1036,13000001035,778,1,0,1.0,Todo perfecto,13
+1037,13000001036,428,1,0,8.0,Podría mejorar el empaque,25
+1038,13000001037,559,2,0,7.0,Podría mejorar el empaque,25
+1039,13000001038,1318,2,0,10.0,Podría mejorar el empaque,25
+1040,13000001039,1451,1,0,6.0,Atención muy buena,18
+1041,13000001040,994,1,0,4.0,Todo perfecto,13
+1042,13000001041,311,1,0,5.0,Atención muy buena,18
+1043,13000001042,282,1,0,8.0,Atención muy buena,18
+1044,13000001043,94,2,0,9.0,Todo perfecto,13
+1045,13000001044,1359,1,0,9.0,Muy conforme con la calidad,27
+1046,13000001045,1400,2,0,8.0,,3
+1047,13000001046,244,2,0,7.0,Todo perfecto,13
+1048,13000001047,295,1,0,8.0,Muy conforme con la calidad,27
+1049,13000001048,731,1,0,1.0,,3
+1050,13000001049,1191,2,0,7.0,Tardó un poco más de lo esperado,32
+1051,13000001050,1104,1,0,8.0,Atención muy buena,18
+1052,13000001051,489,2,0,7.0,Volvería a comprar,18
+1053,13000001052,1096,2,0,7.0,Muy conforme con la calidad,27
+1054,13000001053,1253,1,0,1.0,Volvería a comprar,18
+1055,13000001054,987,1,0,8.0,,3
+1056,13000001055,43,1,0,8.0,Todo perfecto,13
+1057,13000001056,268,1,0,9.0,Podría mejorar el empaque,25
+1058,13000001057,1045,1,0,9.0,Tardó un poco más de lo esperado,32
+1059,13000001058,1410,1,0,4.0,,3
+1060,13000001059,859,1,0,10.0,Atención muy buena,18
+1061,13000001060,353,1,0,7.0,Entrega rápida y producto excelente,35
+1062,13000001061,350,2,0,10.0,Volvería a comprar,18
+1063,13000001062,663,2,0,3.0,,3
+1064,13000001063,601,1,0,7.0,Muy conforme con la calidad,27
+1065,13000001064,468,1,0,6.0,Volvería a comprar,18
+1066,13000001065,975,2,0,10.0,Tardó un poco más de lo esperado,32
+1067,13000001066,1041,2,0,10.0,Muy conforme con la calidad,27
+1068,13000001067,439,2,0,6.0,Atención muy buena,18
+1069,13000001068,1120,1,0,8.0,Volvería a comprar,18
+1070,13000001069,948,1,0,9.0,,3
+1071,13000001070,1090,2,0,7.0,Muy conforme con la calidad,27
+1072,13000001071,771,1,0,0.0,Muy conforme con la calidad,27
+1073,13000001072,1337,2,0,7.0,Muy conforme con la calidad,27
+1074,13000001073,1269,2,0,5.0,Podría mejorar el empaque,25
+1075,13000001074,1052,1,0,10.0,Entrega rápida y producto excelente,35
+1076,13000001075,628,1,0,5.0,Podría mejorar el empaque,25
+1077,13000001076,589,2,0,8.0,Podría mejorar el empaque,25
+1078,13000001077,326,1,0,0.0,,3
+1079,13000001078,1463,1,0,9.0,Volvería a comprar,18
+1080,13000001079,1131,2,0,3.0,Todo perfecto,13
+1081,13000001080,688,1,0,10.0,Todo perfecto,13
+1082,13000001081,1135,1,0,6.0,Todo perfecto,13
+1083,13000001082,516,2,0,8.0,Entrega rápida y producto excelente,35
+1084,13000001083,1019,2,0,4.0,Atención muy buena,18
+1085,13000001084,1009,1,0,4.0,,3
+1086,13000001085,1015,2,0,9.0,Todo perfecto,13
+1087,13000001086,234,1,0,9.0,,3
+1088,13000001087,699,1,0,3.0,Muy conforme con la calidad,27
+1089,13000001088,807,2,0,2.0,Entrega rápida y producto excelente,35
+1090,13000001089,945,2,0,9.0,Podría mejorar el empaque,25
+1091,13000001090,264,1,0,7.0,Atención muy buena,18
+1092,13000001091,405,2,0,7.0,Tardó un poco más de lo esperado,32
+1093,13000001092,549,1,0,7.0,,3
+1094,13000001093,365,1,0,4.0,Atención muy buena,18
+1095,13000001094,1208,1,0,5.0,Podría mejorar el empaque,25
+1096,13000001095,1005,1,0,9.0,Entrega rápida y producto excelente,35
+1097,13000001096,1437,1,0,5.0,Todo perfecto,13
+1098,13000001097,396,1,0,9.0,Todo perfecto,13
+1099,13000001098,711,1,0,2.0,Entrega rápida y producto excelente,35
+1100,13000001099,497,1,0,9.0,Atención muy buena,18
+1101,13000001100,37,1,0,10.0,Muy conforme con la calidad,27
+1102,13000001101,380,1,0,8.0,Entrega rápida y producto excelente,35
+1103,13000001102,535,2,0,5.0,Muy conforme con la calidad,27
+1104,13000001103,651,2,0,8.0,Volvería a comprar,18
+1105,13000001104,1085,1,0,9.0,Entrega rápida y producto excelente,35
+1106,13000001105,1238,2,0,8.0,Muy conforme con la calidad,27
+1107,13000001106,184,1,0,6.0,Muy conforme con la calidad,27
+1108,13000001107,498,2,0,7.0,Entrega rápida y producto excelente,35
+1109,13000001108,1117,2,0,7.0,Atención muy buena,18
+1110,13000001109,469,1,0,10.0,Podría mejorar el empaque,25
+1111,13000001110,815,1,0,5.0,Entrega rápida y producto excelente,35
+1112,13000001111,282,2,0,10.0,Tardó un poco más de lo esperado,32
+1113,13000001112,335,2,0,9.0,,3
+1114,13000001113,261,1,0,6.0,Todo perfecto,13
+1115,13000001114,540,2,0,7.0,,3
+1116,13000001115,989,1,0,6.0,Atención muy buena,18
+1117,13000001116,354,1,0,9.0,Atención muy buena,18
+1118,13000001117,487,1,0,1.0,,3
+1119,13000001118,553,2,0,9.0,Podría mejorar el empaque,25
+1120,13000001119,1111,2,0,7.0,Podría mejorar el empaque,25
+1121,13000001120,293,1,0,1.0,Volvería a comprar,18
+1122,13000001121,814,1,0,7.0,Volvería a comprar,18
+1123,13000001122,444,2,0,7.0,Todo perfecto,13
+1124,13000001123,69,2,0,8.0,Volvería a comprar,18
+1125,13000001124,1074,1,0,8.0,Entrega rápida y producto excelente,35
+1126,13000001125,121,2,0,3.0,Entrega rápida y producto excelente,35
+1127,13000001126,1418,2,0,3.0,Podría mejorar el empaque,25
+1128,13000001127,1317,2,0,4.0,Entrega rápida y producto excelente,35
+1129,13000001128,317,1,0,8.0,,3
+1130,13000001129,1159,2,0,9.0,Muy conforme con la calidad,27
+1131,13000001130,876,1,0,9.0,Podría mejorar el empaque,25
+1132,13000001131,159,2,0,8.0,Atención muy buena,18
+1133,13000001132,1246,2,0,8.0,Entrega rápida y producto excelente,35
+1134,13000001133,831,1,0,9.0,Todo perfecto,13
+1135,13000001134,14,2,0,9.0,,3
+1136,13000001135,52,2,0,8.0,Tardó un poco más de lo esperado,32
+1137,13000001136,63,1,0,0.0,,3
+1138,13000001137,714,2,0,7.0,Entrega rápida y producto excelente,35
+1139,13000001138,276,2,0,9.0,Atención muy buena,18
+1140,13000001139,165,2,0,7.0,Muy conforme con la calidad,27
+1141,13000001140,361,1,0,7.0,Podría mejorar el empaque,25
+1142,13000001141,1339,1,0,8.0,Podría mejorar el empaque,25
+1143,13000001142,56,2,0,9.0,Muy conforme con la calidad,27
+1144,13000001143,665,2,0,2.0,Entrega rápida y producto excelente,35
+1145,13000001144,1475,1,0,10.0,Todo perfecto,13
+1146,13000001145,1356,1,0,7.0,Atención muy buena,18
+1147,13000001146,142,2,0,8.0,,3
+1148,13000001147,466,2,0,8.0,Podría mejorar el empaque,25
+1149,13000001148,1169,1,0,7.0,Tardó un poco más de lo esperado,32
+1150,13000001149,634,1,0,9.0,Tardó un poco más de lo esperado,32
+1151,13000001150,209,2,0,9.0,Muy conforme con la calidad,27
+1152,13000001151,1157,1,0,9.0,Podría mejorar el empaque,25
+1153,13000001152,1258,1,0,8.0,Podría mejorar el empaque,25
+1154,13000001153,663,1,0,0.0,Todo perfecto,13
+1155,13000001154,785,1,0,8.0,Tardó un poco más de lo esperado,32
+1156,13000001155,267,2,0,8.0,Todo perfecto,13
+1157,13000001156,655,1,0,6.0,Entrega rápida y producto excelente,35
+1158,13000001157,757,1,0,7.0,Atención muy buena,18
+1159,13000001158,1329,1,0,9.0,Atención muy buena,18
+1160,13000001159,542,1,0,10.0,Muy conforme con la calidad,27
+1161,13000001160,316,2,0,8.0,Podría mejorar el empaque,25
+1162,13000001161,398,1,0,1.0,,3
+1163,13000001162,964,1,0,8.0,Entrega rápida y producto excelente,35
+1164,13000001163,854,2,0,10.0,Volvería a comprar,18
+1165,13000001164,1065,2,0,7.0,Atención muy buena,18
+1166,13000001165,359,1,0,9.0,Muy conforme con la calidad,27
+1167,13000001166,174,1,0,4.0,Volvería a comprar,18
+1168,13000001167,1333,1,0,9.0,Podría mejorar el empaque,25
+1169,13000001168,901,2,0,0.0,,3
+1170,13000001169,977,1,0,10.0,Podría mejorar el empaque,25
+1171,13000001170,757,1,0,7.0,Atención muy buena,18
+1172,13000001171,1029,1,0,9.0,,3
+1173,13000001172,904,1,0,8.0,Muy conforme con la calidad,27
+1174,13000001173,716,1,0,5.0,,3
+1175,13000001174,1463,2,0,8.0,,3
+1176,13000001175,800,2,0,9.0,Tardó un poco más de lo esperado,32
+1177,13000001176,1366,2,0,8.0,,3
+1178,13000001177,1009,1,0,8.0,Entrega rápida y producto excelente,35
+1179,13000001178,487,2,0,8.0,Podría mejorar el empaque,25
+1180,13000001179,970,1,0,9.0,Todo perfecto,13
+1181,13000001180,1127,1,0,10.0,,3
+1182,13000001181,22,1,0,6.0,Atención muy buena,18
+1183,13000001182,1401,1,0,9.0,Todo perfecto,13
+1184,13000001183,571,2,0,10.0,Muy conforme con la calidad,27
+1185,13000001184,1061,1,0,7.0,Podría mejorar el empaque,25
+1186,13000001185,143,1,0,8.0,Muy conforme con la calidad,27
+1187,13000001186,712,1,0,1.0,,3
+1188,13000001187,649,1,0,6.0,,3
+1189,13000001188,317,1,0,8.0,Volvería a comprar,18
+1190,13000001189,16,2,0,7.0,Atención muy buena,18
+1191,13000001190,175,2,0,9.0,Muy conforme con la calidad,27
+1192,13000001191,694,2,0,5.0,,3
+1193,13000001192,1377,1,0,9.0,Muy conforme con la calidad,27
+1194,13000001193,653,2,0,5.0,Todo perfecto,13
+1195,13000001194,1328,1,0,8.0,Todo perfecto,13
+1196,13000001195,850,1,0,8.0,,3
+1197,13000001196,1043,2,0,10.0,Muy conforme con la calidad,27
+1198,13000001197,120,2,0,9.0,Tardó un poco más de lo esperado,32
+1199,13000001198,374,1,0,1.0,Podría mejorar el empaque,25
+1200,13000001199,1023,2,0,10.0,Entrega rápida y producto excelente,35
+1201,13000001200,1435,1,0,4.0,Muy conforme con la calidad,27
+1202,13000001201,1022,2,0,4.0,Volvería a comprar,18
+1203,13000001202,397,2,0,5.0,Atención muy buena,18
+1204,13000001203,539,1,0,1.0,Tardó un poco más de lo esperado,32
+1205,13000001204,662,2,0,7.0,Podría mejorar el empaque,25
+1206,13000001205,413,2,0,7.0,Podría mejorar el empaque,25
+1207,13000001206,978,1,0,7.0,,3
+1208,13000001207,94,1,0,8.0,Todo perfecto,13
+1209,13000001208,593,2,0,9.0,Volvería a comprar,18
+1210,13000001209,3,1,0,10.0,Podría mejorar el empaque,25
+1211,13000001210,986,1,0,9.0,Muy conforme con la calidad,27
+1212,13000001211,1097,1,0,5.0,Tardó un poco más de lo esperado,32
+1213,13000001212,1298,2,0,8.0,Podría mejorar el empaque,25
+1214,13000001213,968,2,0,0.0,,3
+1215,13000001214,256,2,0,10.0,Entrega rápida y producto excelente,35
+1216,13000001215,165,2,0,7.0,Podría mejorar el empaque,25
+1217,13000001216,74,2,0,8.0,Volvería a comprar,18
+1218,13000001217,610,1,0,9.0,Entrega rápida y producto excelente,35
+1219,13000001218,1181,1,0,8.0,Atención muy buena,18
+1220,13000001219,1198,1,0,7.0,,3
+1221,13000001220,383,2,0,9.0,Tardó un poco más de lo esperado,32
+1222,13000001221,327,1,0,4.0,Tardó un poco más de lo esperado,32
+1223,13000001222,1118,1,0,3.0,Muy conforme con la calidad,27
+1224,13000001223,1093,2,0,5.0,Muy conforme con la calidad,27
+1225,13000001224,348,1,0,10.0,Podría mejorar el empaque,25
+1226,13000001225,988,1,0,9.0,Tardó un poco más de lo esperado,32
+1227,13000001226,1242,1,0,8.0,Atención muy buena,18
+1228,13000001227,645,2,0,8.0,,3
+1229,13000001228,1068,1,0,7.0,Volvería a comprar,18
+1230,13000001229,523,1,0,9.0,Atención muy buena,18
+1231,13000001230,624,1,0,0.0,Muy conforme con la calidad,27
+1232,13000001231,705,2,0,6.0,Muy conforme con la calidad,27
+1233,13000001232,12,2,0,3.0,Entrega rápida y producto excelente,35
+1234,13000001233,748,1,0,9.0,,3
+1235,13000001234,922,2,0,9.0,,3
+1236,13000001235,637,2,0,7.0,Muy conforme con la calidad,27
+1237,13000001236,1225,2,0,8.0,Tardó un poco más de lo esperado,32
+1238,13000001237,1336,2,0,3.0,Tardó un poco más de lo esperado,32
+1239,13000001238,1006,1,0,6.0,Volvería a comprar,18
+1240,13000001239,717,1,0,9.0,Tardó un poco más de lo esperado,32
+1241,13000001240,1117,1,0,5.0,Entrega rápida y producto excelente,35
+1242,13000001241,547,1,0,7.0,Todo perfecto,13
+1243,13000001242,1073,2,0,6.0,,3
+1244,13000001243,611,2,0,9.0,Tardó un poco más de lo esperado,32
+1245,13000001244,1315,2,0,7.0,Muy conforme con la calidad,27
+1246,13000001245,881,2,0,10.0,Todo perfecto,13
+1247,13000001246,475,1,0,7.0,Tardó un poco más de lo esperado,32
+1248,13000001247,1015,1,0,5.0,Muy conforme con la calidad,27
+1249,13000001248,574,2,0,7.0,Entrega rápida y producto excelente,35
+1250,13000001249,71,1,0,9.0,,3
+1251,13000001250,737,2,0,9.0,Muy conforme con la calidad,27
+1252,13000001251,1060,2,0,4.0,Atención muy buena,18
+1253,13000001252,1145,2,0,8.0,Atención muy buena,18
+1254,13000001253,1256,1,0,10.0,Todo perfecto,13
+1255,13000001254,1063,2,0,9.0,Tardó un poco más de lo esperado,32
+1256,13000001255,551,1,0,0.0,Volvería a comprar,18
+1257,13000001256,248,2,0,5.0,Volvería a comprar,18
+1258,13000001257,831,1,0,6.0,,3
+1259,13000001258,968,2,0,10.0,Entrega rápida y producto excelente,35
+1260,13000001259,1010,1,0,3.0,Todo perfecto,13
+1261,13000001260,509,2,0,10.0,Tardó un poco más de lo esperado,32
+1262,13000001261,767,2,0,8.0,Podría mejorar el empaque,25
+1263,13000001262,795,1,0,8.0,Podría mejorar el empaque,25
+1264,13000001263,712,1,0,8.0,,3
+1265,13000001264,273,1,0,9.0,Entrega rápida y producto excelente,35
+1266,13000001265,818,1,0,6.0,Todo perfecto,13
+1267,13000001266,513,2,0,6.0,,3
+1268,13000001267,1026,2,0,10.0,Todo perfecto,13
+1269,13000001268,1347,2,0,8.0,,3
+1270,13000001269,258,1,0,2.0,Entrega rápida y producto excelente,35
+1271,13000001270,1010,1,0,10.0,Atención muy buena,18
+1272,13000001271,220,2,0,7.0,Tardó un poco más de lo esperado,32
+1273,13000001272,1048,1,0,8.0,Volvería a comprar,18
+1274,13000001273,1300,1,0,8.0,,3
+1275,13000001274,262,2,0,8.0,Volvería a comprar,18
+1276,13000001275,1141,2,0,10.0,Volvería a comprar,18
+1277,13000001276,1234,2,0,8.0,Tardó un poco más de lo esperado,32
+1278,13000001277,554,1,0,8.0,Volvería a comprar,18
+1279,13000001278,730,1,0,9.0,Entrega rápida y producto excelente,35
+1280,13000001279,578,2,0,9.0,Podría mejorar el empaque,25
+1281,13000001280,1133,1,0,8.0,Todo perfecto,13
+1282,13000001281,272,1,0,9.0,Muy conforme con la calidad,27
+1283,13000001282,705,1,0,7.0,Todo perfecto,13
+1284,13000001283,1304,2,0,3.0,Volvería a comprar,18
+1285,13000001284,1274,2,0,5.0,Podría mejorar el empaque,25
+1286,13000001285,38,1,0,1.0,Volvería a comprar,18
+1287,13000001286,1037,2,0,1.0,Atención muy buena,18
+1288,13000001287,1438,1,0,10.0,Tardó un poco más de lo esperado,32
+1289,13000001288,621,1,0,9.0,,3
+1290,13000001289,177,1,0,7.0,Todo perfecto,13
+1291,13000001290,1116,2,0,6.0,Atención muy buena,18
+1292,13000001291,537,2,0,6.0,Muy conforme con la calidad,27
+1293,13000001292,233,2,0,10.0,Todo perfecto,13
+1294,13000001293,358,1,0,9.0,Tardó un poco más de lo esperado,32
+1295,13000001294,544,1,0,6.0,Atención muy buena,18
+1296,13000001295,694,2,0,7.0,Muy conforme con la calidad,27
+1297,13000001296,1267,2,0,6.0,,3
+1298,13000001297,491,1,0,10.0,,3
+1299,13000001298,536,1,0,10.0,Volvería a comprar,18
+1300,13000001299,403,1,0,6.0,Podría mejorar el empaque,25
+1301,13000001300,856,1,0,9.0,Volvería a comprar,18
+1302,13000001301,184,2,0,7.0,Todo perfecto,13
+1303,13000001302,349,1,0,10.0,Todo perfecto,13
+1304,13000001303,356,1,0,4.0,Atención muy buena,18
+1305,13000001304,818,2,0,8.0,Podría mejorar el empaque,25
+1306,13000001305,1251,2,0,4.0,Todo perfecto,13
+1307,13000001306,85,2,0,8.0,Tardó un poco más de lo esperado,32
+1308,13000001307,255,1,0,10.0,Podría mejorar el empaque,25
+1309,13000001308,929,2,0,8.0,Entrega rápida y producto excelente,35
+1310,13000001309,541,2,0,6.0,Muy conforme con la calidad,27
+1311,13000001310,116,2,0,4.0,,3
+1312,13000001311,402,1,0,8.0,Todo perfecto,13
+1313,13000001312,922,2,0,3.0,Entrega rápida y producto excelente,35
+1314,13000001313,1484,2,0,6.0,,3
+1315,13000001314,986,1,0,1.0,Muy conforme con la calidad,27
+1316,13000001315,155,1,0,6.0,Entrega rápida y producto excelente,35
+1317,13000001316,138,1,0,7.0,Tardó un poco más de lo esperado,32
+1318,13000001317,556,1,0,9.0,,3
+1319,13000001318,401,1,0,6.0,,3
+1320,13000001319,267,2,0,0.0,Muy conforme con la calidad,27
+1321,13000001320,776,1,0,6.0,,3
+1322,13000001321,186,1,0,7.0,,3
+1323,13000001322,1330,1,0,0.0,Muy conforme con la calidad,27
+1324,13000001323,32,1,0,9.0,Muy conforme con la calidad,27
+1325,13000001324,7,1,0,6.0,Tardó un poco más de lo esperado,32
+1326,13000001325,358,1,0,9.0,Muy conforme con la calidad,27
+1327,13000001326,129,1,0,0.0,,3
+1328,13000001327,829,2,0,7.0,Atención muy buena,18
+1329,13000001328,1129,2,0,9.0,Todo perfecto,13
+1330,13000001329,1297,1,0,6.0,Entrega rápida y producto excelente,35
+1331,13000001330,1001,1,0,10.0,Atención muy buena,18
+1332,13000001331,1222,2,0,9.0,Muy conforme con la calidad,27
+1333,13000001332,961,1,0,6.0,Entrega rápida y producto excelente,35
+1334,13000001333,147,1,0,9.0,Volvería a comprar,18
+1335,13000001334,1439,1,0,9.0,Entrega rápida y producto excelente,35
+1336,13000001335,880,2,0,10.0,Atención muy buena,18
+1337,13000001336,208,2,0,10.0,Entrega rápida y producto excelente,35
+1338,13000001337,1240,2,0,8.0,,3
+1339,13000001338,956,2,0,9.0,Tardó un poco más de lo esperado,32
+1340,13000001339,1212,2,0,3.0,Volvería a comprar,18
+1341,13000001340,112,1,0,9.0,Podría mejorar el empaque,25
+1342,13000001341,999,1,0,10.0,Todo perfecto,13
+1343,13000001342,1381,1,0,10.0,Atención muy buena,18
+1344,13000001343,935,2,0,8.0,,3
+1345,13000001344,1412,1,0,10.0,Todo perfecto,13
+1346,13000001345,296,1,0,7.0,Podría mejorar el empaque,25
+1347,13000001346,933,1,0,3.0,Entrega rápida y producto excelente,35
+1348,13000001347,954,1,0,9.0,Volvería a comprar,18
+1349,13000001348,269,2,0,7.0,Tardó un poco más de lo esperado,32
+1350,13000001349,281,2,0,5.0,Volvería a comprar,18
+1351,13000001350,359,2,0,8.0,Muy conforme con la calidad,27
+1352,13000001351,492,1,0,9.0,,3
+1353,13000001352,489,2,0,5.0,Podría mejorar el empaque,25
+1354,13000001353,386,2,0,7.0,Entrega rápida y producto excelente,35
+1355,13000001354,1329,1,0,7.0,Entrega rápida y producto excelente,35
+1356,13000001355,649,2,0,5.0,Volvería a comprar,18
+1357,13000001356,684,1,0,9.0,Tardó un poco más de lo esperado,32
+1358,13000001357,928,2,0,8.0,,3
+1359,13000001358,1096,1,0,5.0,Muy conforme con la calidad,27
+1360,13000001359,546,1,0,10.0,Muy conforme con la calidad,27
+1361,13000001360,121,1,0,10.0,,3
+1362,13000001361,400,2,0,10.0,Volvería a comprar,18
+1363,13000001362,383,1,0,10.0,Tardó un poco más de lo esperado,32
+1364,13000001363,518,1,0,9.0,,3
+1365,13000001364,1130,2,0,9.0,Atención muy buena,18
+1366,13000001365,921,2,0,5.0,Todo perfecto,13
+1367,13000001366,42,1,0,8.0,,3
+1368,13000001367,1459,1,0,2.0,Muy conforme con la calidad,27
+1369,13000001368,1172,2,0,0.0,Atención muy buena,18
+1370,13000001369,300,1,0,7.0,Podría mejorar el empaque,25
+1371,13000001370,23,2,0,10.0,Todo perfecto,13
+1372,13000001371,321,1,0,5.0,Muy conforme con la calidad,27
+1373,13000001372,426,1,0,8.0,,3
+1374,13000001373,594,2,0,9.0,Volvería a comprar,18
+1375,13000001374,1483,2,0,9.0,Podría mejorar el empaque,25
+1376,13000001375,1003,1,0,9.0,,3
+1377,13000001376,457,2,0,5.0,Todo perfecto,13
+1378,13000001377,746,1,0,9.0,Podría mejorar el empaque,25
+1379,13000001378,150,2,0,9.0,Volvería a comprar,18
+1380,13000001379,1313,1,0,8.0,Volvería a comprar,18
+1381,13000001380,1087,2,0,10.0,Muy conforme con la calidad,27
+1382,13000001381,835,1,0,9.0,Todo perfecto,13
+1383,13000001382,1149,2,0,3.0,,3
+1384,13000001383,587,2,0,9.0,Entrega rápida y producto excelente,35
+1385,13000001384,257,1,0,7.0,Todo perfecto,13
+1386,13000001385,1127,1,0,0.0,Atención muy buena,18
+1387,13000001386,1332,1,0,8.0,Entrega rápida y producto excelente,35
+1388,13000001387,961,1,0,0.0,Podría mejorar el empaque,25
+1389,13000001388,85,2,0,9.0,,3
+1390,13000001389,461,2,0,8.0,Atención muy buena,18
+1391,13000001390,302,2,0,4.0,Volvería a comprar,18
+1392,13000001391,1239,1,0,9.0,,3
+1393,13000001392,633,2,0,10.0,,3
+1394,13000001393,1475,2,0,9.0,Muy conforme con la calidad,27
+1395,13000001394,1377,1,0,9.0,,3
+1396,13000001395,719,1,0,3.0,Entrega rápida y producto excelente,35
+1397,13000001396,390,1,0,7.0,Muy conforme con la calidad,27
+1398,13000001397,541,1,0,3.0,Podría mejorar el empaque,25
+1399,13000001398,1181,1,0,7.0,Atención muy buena,18
+1400,13000001399,1022,1,0,7.0,Atención muy buena,18
+1401,13000001400,485,1,0,7.0,,3
+1402,13000001401,1011,1,0,7.0,Tardó un poco más de lo esperado,32
+1403,13000001402,771,1,0,6.0,Atención muy buena,18
+1404,13000001403,478,2,0,0.0,Entrega rápida y producto excelente,35
+1405,13000001404,529,2,0,5.0,Volvería a comprar,18
+1406,13000001405,73,1,0,10.0,Muy conforme con la calidad,27
+1407,13000001406,615,1,0,5.0,Atención muy buena,18
+1408,13000001407,1048,2,0,5.0,,3
+1409,13000001408,1292,1,0,3.0,Atención muy buena,18
+1410,13000001409,1429,1,0,10.0,Tardó un poco más de lo esperado,32
+1411,13000001410,1353,1,0,9.0,,3
+1412,13000001411,1322,1,0,8.0,Atención muy buena,18
+1413,13000001412,325,1,0,7.0,Muy conforme con la calidad,27
+1414,13000001413,1004,1,0,7.0,,3
+1415,13000001414,509,2,0,9.0,Tardó un poco más de lo esperado,32
+1416,13000001415,1498,1,0,8.0,Entrega rápida y producto excelente,35
+1417,13000001416,166,2,0,4.0,Tardó un poco más de lo esperado,32
+1418,13000001417,971,2,0,8.0,Podría mejorar el empaque,25
+1419,13000001418,1301,2,0,8.0,,3
+1420,13000001419,573,2,0,9.0,Muy conforme con la calidad,27
+1421,13000001420,730,2,0,7.0,Muy conforme con la calidad,27
+1422,13000001421,650,2,0,9.0,Atención muy buena,18
+1423,13000001422,873,1,0,9.0,Muy conforme con la calidad,27
+1424,13000001423,658,2,0,9.0,Podría mejorar el empaque,25
+1425,13000001424,991,2,0,1.0,Tardó un poco más de lo esperado,32
+1426,13000001425,106,2,0,3.0,,3
+1427,13000001426,270,2,0,10.0,Tardó un poco más de lo esperado,32
+1428,13000001427,833,1,0,6.0,Muy conforme con la calidad,27
+1429,13000001428,604,1,0,6.0,Tardó un poco más de lo esperado,32
+1430,13000001429,1051,2,0,7.0,Tardó un poco más de lo esperado,32
+1431,13000001430,212,2,0,10.0,Tardó un poco más de lo esperado,32
+1432,13000001431,1149,1,0,8.0,Volvería a comprar,18
+1433,13000001432,456,2,0,8.0,Atención muy buena,18
+1434,13000001433,859,2,0,7.0,Todo perfecto,13
+1435,13000001434,728,2,0,5.0,Podría mejorar el empaque,25
+1436,13000001435,1062,1,0,9.0,Volvería a comprar,18
+1437,13000001436,995,1,0,7.0,Podría mejorar el empaque,25
+1438,13000001437,1173,1,0,8.0,Tardó un poco más de lo esperado,32
+1439,13000001438,1375,1,0,4.0,Tardó un poco más de lo esperado,32
+1440,13000001439,1073,2,0,3.0,Volvería a comprar,18
+1441,13000001440,767,1,0,7.0,Tardó un poco más de lo esperado,32
+1442,13000001441,969,2,0,8.0,Volvería a comprar,18
+1443,13000001442,466,2,0,10.0,Todo perfecto,13
+1444,13000001443,658,1,0,6.0,Atención muy buena,18
+1445,13000001444,503,2,0,1.0,Tardó un poco más de lo esperado,32
+1446,13000001445,810,2,0,0.0,Entrega rápida y producto excelente,35
+1447,13000001446,1161,2,0,7.0,Volvería a comprar,18
+1448,13000001447,373,2,0,7.0,Podría mejorar el empaque,25
+1449,13000001448,467,1,0,6.0,Entrega rápida y producto excelente,35
+1450,13000001449,165,1,0,8.0,Todo perfecto,13
+1451,13000001450,1212,2,0,7.0,Atención muy buena,18
+1452,13000001451,237,1,0,5.0,Entrega rápida y producto excelente,35
+1453,13000001452,447,2,0,10.0,Volvería a comprar,18
+1454,13000001453,272,1,0,3.0,Atención muy buena,18
+1455,13000001454,690,2,0,7.0,Podría mejorar el empaque,25
+1456,13000001455,254,1,0,7.0,Todo perfecto,13
+1457,13000001456,639,2,0,8.0,Muy conforme con la calidad,27
+1458,13000001457,1257,2,0,10.0,Entrega rápida y producto excelente,35
+1459,13000001458,1322,2,0,7.0,,3
+1460,13000001459,1418,2,0,9.0,Podría mejorar el empaque,25
+1461,13000001460,1163,1,0,5.0,Todo perfecto,13
+1462,13000001461,1237,1,0,7.0,Podría mejorar el empaque,25
+1463,13000001462,1313,1,0,10.0,Tardó un poco más de lo esperado,32
+1464,13000001463,558,2,0,7.0,Entrega rápida y producto excelente,35
+1465,13000001464,806,2,0,8.0,Tardó un poco más de lo esperado,32
+1466,13000001465,362,1,0,9.0,,3
+1467,13000001466,8,1,0,7.0,,3
+1468,13000001467,54,2,0,5.0,Podría mejorar el empaque,25
+1469,13000001468,554,2,0,3.0,Todo perfecto,13
+1470,13000001469,1409,1,0,9.0,Volvería a comprar,18
+1471,13000001470,259,2,0,6.0,Atención muy buena,18
+1472,13000001471,1397,1,0,9.0,Muy conforme con la calidad,27
+1473,13000001472,1378,2,0,10.0,Entrega rápida y producto excelente,35
+1474,13000001473,1170,2,0,8.0,Entrega rápida y producto excelente,35
+1475,13000001474,224,2,0,10.0,Podría mejorar el empaque,25
+1476,13000001475,1127,1,0,7.0,,3
+1477,13000001476,1321,2,0,9.0,Todo perfecto,13
+1478,13000001477,1371,2,0,6.0,Podría mejorar el empaque,25
+1479,13000001478,726,1,0,8.0,,3
+1480,13000001479,874,2,0,4.0,Entrega rápida y producto excelente,35
+1481,13000001480,370,2,0,5.0,Volvería a comprar,18
+1482,13000001481,712,1,0,9.0,Todo perfecto,13
+1483,13000001482,1315,2,0,9.0,Podría mejorar el empaque,25
+1484,13000001483,1494,2,0,6.0,Muy conforme con la calidad,27
+1485,13000001484,578,1,0,8.0,Muy conforme con la calidad,27
+1486,13000001485,380,2,0,8.0,,3
+1487,13000001486,969,1,0,7.0,Todo perfecto,13
+1488,13000001487,233,2,0,7.0,Muy conforme con la calidad,27
+1489,13000001488,1027,2,0,7.0,Tardó un poco más de lo esperado,32
+1490,13000001489,130,1,0,10.0,Muy conforme con la calidad,27
+1491,13000001490,688,1,0,10.0,Todo perfecto,13
+1492,13000001491,415,2,0,7.0,Entrega rápida y producto excelente,35
+1493,13000001492,691,2,0,1.0,Entrega rápida y producto excelente,35
+1494,13000001493,254,1,0,9.0,Muy conforme con la calidad,27
+1495,13000001494,966,1,0,10.0,Atención muy buena,18
+1496,13000001495,516,2,0,9.0,Tardó un poco más de lo esperado,32
+1497,13000001496,40,1,0,6.0,,3
+1498,13000001497,28,2,0,9.0,,3
+1499,13000001498,464,2,0,8.0,Atención muy buena,18
+1500,13000001499,1244,1,0,10.0,Podría mejorar el empaque,25
+1501,13000001500,904,2,0,10.0,,3
+1502,13000001501,371,1,0,8.0,Entrega rápida y producto excelente,35
+1503,13000001502,385,2,0,9.0,Atención muy buena,18
+1504,13000001503,655,1,0,7.0,Atención muy buena,18
+1505,13000001504,973,2,0,10.0,Atención muy buena,18
+1506,13000001505,159,1,0,3.0,Entrega rápida y producto excelente,35
+1507,13000001506,325,2,0,9.0,Atención muy buena,18
+1508,13000001507,908,1,0,7.0,Todo perfecto,13
+1509,13000001508,1022,1,0,10.0,Muy conforme con la calidad,27
+1510,13000001509,410,2,0,10.0,Tardó un poco más de lo esperado,32
+1511,13000001510,743,2,0,8.0,Todo perfecto,13
+1512,13000001511,937,1,0,8.0,Todo perfecto,13
+1513,13000001512,1301,1,0,10.0,Tardó un poco más de lo esperado,32
+1514,13000001513,1313,1,0,5.0,Volvería a comprar,18
+1515,13000001514,1245,2,0,10.0,Volvería a comprar,18
+1516,13000001515,519,1,0,10.0,Entrega rápida y producto excelente,35
+1517,13000001516,832,1,0,0.0,Atención muy buena,18
+1518,13000001517,37,1,0,2.0,Entrega rápida y producto excelente,35
+1519,13000001518,602,2,0,10.0,,3
+1520,13000001519,621,2,0,2.0,Entrega rápida y producto excelente,35
+1521,13000001520,369,2,0,8.0,Entrega rápida y producto excelente,35
+1522,13000001521,890,2,0,7.0,,3
+1523,13000001522,334,1,0,8.0,Tardó un poco más de lo esperado,32
+1524,13000001523,347,1,0,8.0,Podría mejorar el empaque,25
+1525,13000001524,1138,1,0,10.0,Tardó un poco más de lo esperado,32
+1526,13000001525,1271,1,0,8.0,Todo perfecto,13
+1527,13000001526,509,1,0,4.0,Volvería a comprar,18
+1528,13000001527,1409,1,0,7.0,Entrega rápida y producto excelente,35
+1529,13000001528,875,2,0,6.0,Todo perfecto,13
+1530,13000001529,867,2,0,8.0,Atención muy buena,18
+1531,13000001530,111,1,0,5.0,Todo perfecto,13
+1532,13000001531,1486,1,0,8.0,Muy conforme con la calidad,27
+1533,13000001532,1084,2,0,10.0,Atención muy buena,18
+1534,13000001533,780,2,0,8.0,Podría mejorar el empaque,25
+1535,13000001534,1037,1,0,1.0,Todo perfecto,13
+1536,13000001535,592,1,0,5.0,,3
+1537,13000001536,1010,1,0,10.0,Tardó un poco más de lo esperado,32
+1538,13000001537,1292,1,0,3.0,Entrega rápida y producto excelente,35
+1539,13000001538,594,1,0,5.0,Todo perfecto,13
+1540,13000001539,1453,1,0,9.0,Atención muy buena,18
+1541,13000001540,119,1,0,10.0,Volvería a comprar,18
+1542,13000001541,488,2,0,1.0,,3
+1543,13000001542,32,2,0,3.0,Muy conforme con la calidad,27
+1544,13000001543,1340,1,0,3.0,Todo perfecto,13
+1545,13000001544,783,1,0,9.0,Todo perfecto,13
+1546,13000001545,72,2,0,8.0,Tardó un poco más de lo esperado,32
+1547,13000001546,403,2,0,2.0,Volvería a comprar,18
+1548,13000001547,890,2,0,9.0,Tardó un poco más de lo esperado,32
+1549,13000001548,992,2,0,8.0,Entrega rápida y producto excelente,35
+1550,13000001549,538,2,0,6.0,Podría mejorar el empaque,25
+1551,13000001550,262,1,0,9.0,,3
+1552,13000001551,1256,2,0,8.0,Muy conforme con la calidad,27
+1553,13000001552,704,1,0,9.0,Podría mejorar el empaque,25
+1554,13000001553,417,2,0,9.0,Volvería a comprar,18
+1555,13000001554,984,1,0,9.0,,3
+1556,13000001555,768,1,0,7.0,Podría mejorar el empaque,25
+1557,13000001556,615,1,0,9.0,,3
+1558,13000001557,995,1,0,6.0,Volvería a comprar,18
+1559,13000001558,56,2,0,6.0,,3
+1560,13000001559,1440,1,0,7.0,Tardó un poco más de lo esperado,32
+1561,13000001560,832,1,0,8.0,Todo perfecto,13
+1562,13000001561,217,2,0,10.0,Podría mejorar el empaque,25
+1563,13000001562,1323,2,0,9.0,Volvería a comprar,18
+1564,13000001563,803,1,0,8.0,Atención muy buena,18
+1565,13000001564,512,1,0,10.0,Volvería a comprar,18
+1566,13000001565,952,2,0,10.0,Volvería a comprar,18
+1567,13000001566,1433,1,0,10.0,,3
+1568,13000001567,824,2,0,9.0,Tardó un poco más de lo esperado,32
+1569,13000001568,384,1,0,7.0,Volvería a comprar,18
+1570,13000001569,1029,2,0,8.0,Volvería a comprar,18
+1571,13000001570,297,2,0,8.0,Tardó un poco más de lo esperado,32
+1572,13000001571,1101,1,0,6.0,Todo perfecto,13
+1573,13000001572,464,2,0,2.0,Tardó un poco más de lo esperado,32
+1574,13000001573,727,1,0,7.0,Atención muy buena,18
+1575,13000001574,71,1,0,8.0,Entrega rápida y producto excelente,35
+1576,13000001575,520,2,0,8.0,Tardó un poco más de lo esperado,32
+1577,13000001576,930,1,0,9.0,Podría mejorar el empaque,25
+1578,13000001577,447,1,0,8.0,Entrega rápida y producto excelente,35
+1579,13000001578,900,1,0,8.0,Tardó un poco más de lo esperado,32
+1580,13000001579,304,1,0,8.0,Atención muy buena,18
+1581,13000001580,954,2,0,8.0,Podría mejorar el empaque,25
+1582,13000001581,765,1,0,5.0,Muy conforme con la calidad,27
+1583,13000001582,731,1,0,5.0,Podría mejorar el empaque,25
+1584,13000001583,938,1,0,7.0,,3
+1585,13000001584,105,1,0,3.0,Podría mejorar el empaque,25
+1586,13000001585,1346,1,0,7.0,Atención muy buena,18
+1587,13000001586,563,2,0,5.0,Atención muy buena,18
+1588,13000001587,41,1,0,7.0,Todo perfecto,13
+1589,13000001588,947,1,0,7.0,Volvería a comprar,18
+1590,13000001589,1259,2,0,9.0,Muy conforme con la calidad,27
+1591,13000001590,110,1,0,7.0,Entrega rápida y producto excelente,35
+1592,13000001591,375,2,0,6.0,,3
+1593,13000001592,229,1,0,5.0,Atención muy buena,18
+1594,13000001593,425,1,0,8.0,Todo perfecto,13
+1595,13000001594,1452,2,0,9.0,Muy conforme con la calidad,27
+1596,13000001595,366,1,0,10.0,,3
+1597,13000001596,983,2,0,9.0,Todo perfecto,13
+1598,13000001597,1418,2,0,10.0,Entrega rápida y producto excelente,35
+1599,13000001598,943,1,0,10.0,Tardó un poco más de lo esperado,32
+1600,13000001599,1162,1,0,10.0,Podría mejorar el empaque,25
+1601,13000001600,117,2,0,10.0,Podría mejorar el empaque,25
+1602,13000001601,68,1,0,9.0,,3
+1603,13000001602,763,1,0,10.0,Volvería a comprar,18
+1604,13000001603,45,1,0,8.0,Muy conforme con la calidad,27
+1605,13000001604,930,1,0,10.0,Tardó un poco más de lo esperado,32
+1606,13000001605,743,1,0,3.0,Entrega rápida y producto excelente,35
+1607,13000001606,578,2,0,7.0,Volvería a comprar,18
+1608,13000001607,1409,2,0,8.0,Tardó un poco más de lo esperado,32
+1609,13000001608,831,2,0,9.0,Volvería a comprar,18
+1610,13000001609,862,2,0,9.0,Podría mejorar el empaque,25
+1611,13000001610,391,1,0,5.0,Entrega rápida y producto excelente,35
+1612,13000001611,1044,1,0,9.0,Tardó un poco más de lo esperado,32
+1613,13000001612,539,2,0,8.0,Todo perfecto,13
+1614,13000001613,758,2,0,8.0,Volvería a comprar,18
+1615,13000001614,616,2,0,5.0,Volvería a comprar,18
+1616,13000001615,1281,1,0,8.0,Atención muy buena,18
+1617,13000001616,1029,2,0,9.0,Todo perfecto,13
+1618,13000001617,160,1,0,10.0,Muy conforme con la calidad,27
+1619,13000001618,1004,2,0,9.0,Muy conforme con la calidad,27
+1620,13000001619,522,2,0,9.0,Atención muy buena,18
+1621,13000001620,474,1,0,8.0,Todo perfecto,13
+1622,13000001621,809,2,0,3.0,Tardó un poco más de lo esperado,32
+1623,13000001622,1000,2,0,6.0,,3
+1624,13000001623,657,1,0,10.0,Volvería a comprar,18
+1625,13000001624,1183,1,0,8.0,Todo perfecto,13
+1626,13000001625,549,2,0,9.0,Entrega rápida y producto excelente,35
+1627,13000001626,1483,1,0,10.0,Tardó un poco más de lo esperado,32
+1628,13000001627,958,1,0,8.0,Tardó un poco más de lo esperado,32
+1629,13000001628,13,2,0,10.0,Entrega rápida y producto excelente,35
+1630,13000001629,810,1,0,10.0,Tardó un poco más de lo esperado,32
+1631,13000001630,1336,1,0,5.0,Volvería a comprar,18
+1632,13000001631,672,1,0,5.0,Todo perfecto,13
+1633,13000001632,445,1,0,8.0,Podría mejorar el empaque,25
+1634,13000001633,1127,2,0,6.0,Podría mejorar el empaque,25
+1635,13000001634,604,1,0,8.0,Entrega rápida y producto excelente,35
+1636,13000001635,433,1,0,7.0,Entrega rápida y producto excelente,35
+1637,13000001636,1234,1,0,5.0,Todo perfecto,13
+1638,13000001637,70,1,0,6.0,Todo perfecto,13
+1639,13000001638,540,1,0,9.0,Todo perfecto,13
+1640,13000001639,606,1,0,6.0,Atención muy buena,18
+1641,13000001640,1351,2,0,9.0,,3
+1642,13000001641,714,1,0,10.0,Muy conforme con la calidad,27
+1643,13000001642,1011,2,0,7.0,Entrega rápida y producto excelente,35
+1644,13000001643,349,2,0,10.0,,3
+1645,13000001644,422,2,0,9.0,Todo perfecto,13
+1646,13000001645,972,2,0,8.0,Muy conforme con la calidad,27
+1647,13000001646,1008,2,0,8.0,Atención muy buena,18
+1648,13000001647,14,1,0,2.0,Muy conforme con la calidad,27
+1649,13000001648,1124,1,0,7.0,Atención muy buena,18
+1650,13000001649,976,2,0,9.0,Entrega rápida y producto excelente,35
+1651,13000001650,1434,1,0,8.0,Podría mejorar el empaque,25
+1652,13000001651,1388,2,0,7.0,Entrega rápida y producto excelente,35
+1653,13000001652,1326,2,0,9.0,Volvería a comprar,18
+1654,13000001653,1296,1,0,8.0,Todo perfecto,13
+1655,13000001654,1414,1,0,7.0,Muy conforme con la calidad,27
+1656,13000001655,751,2,0,7.0,Todo perfecto,13
+1657,13000001656,825,2,0,10.0,Entrega rápida y producto excelente,35
+1658,13000001657,1199,2,0,8.0,Entrega rápida y producto excelente,35
+1659,13000001658,955,1,0,7.0,Podría mejorar el empaque,25
+1660,13000001659,433,2,0,7.0,Volvería a comprar,18
+1661,13000001660,1431,1,0,5.0,Muy conforme con la calidad,27
+1662,13000001661,1274,1,0,6.0,Podría mejorar el empaque,25
+1663,13000001662,1323,1,0,2.0,Todo perfecto,13
+1664,13000001663,712,1,0,3.0,Todo perfecto,13
+1665,13000001664,62,1,0,10.0,Atención muy buena,18
+1666,13000001665,269,2,0,4.0,Muy conforme con la calidad,27
+1667,13000001666,1214,1,0,8.0,Todo perfecto,13
+1668,13000001667,242,2,0,4.0,,3
+1669,13000001668,118,1,0,8.0,Tardó un poco más de lo esperado,32
+1670,13000001669,375,1,0,9.0,Tardó un poco más de lo esperado,32
+1671,13000001670,597,2,0,7.0,,3
+1672,13000001671,928,1,0,8.0,Tardó un poco más de lo esperado,32
+1673,13000001672,388,2,0,9.0,Muy conforme con la calidad,27
+1674,13000001673,1141,1,0,6.0,Tardó un poco más de lo esperado,32
+1675,13000001674,1358,2,0,8.0,Entrega rápida y producto excelente,35
+1676,13000001675,882,2,0,8.0,,3
+1677,13000001676,402,1,0,7.0,Todo perfecto,13
+1678,13000001677,542,1,0,9.0,Podría mejorar el empaque,25
+1679,13000001678,901,1,0,9.0,Atención muy buena,18
+1680,13000001679,386,1,0,7.0,Todo perfecto,13
+1681,13000001680,1359,2,0,7.0,Atención muy buena,18
+1682,13000001681,371,1,0,9.0,Atención muy buena,18
+1683,13000001682,511,1,0,7.0,Podría mejorar el empaque,25
+1684,13000001683,852,1,0,9.0,Volvería a comprar,18
+1685,13000001684,668,1,0,9.0,Podría mejorar el empaque,25
+1686,13000001685,999,2,0,8.0,Entrega rápida y producto excelente,35
+1687,13000001686,380,1,0,10.0,Volvería a comprar,18
+1688,13000001687,1485,2,0,1.0,,3
+1689,13000001688,1302,1,0,8.0,,3
+1690,13000001689,1319,1,0,6.0,Podría mejorar el empaque,25
+1691,13000001690,196,1,0,7.0,Muy conforme con la calidad,27
+1692,13000001691,343,2,0,6.0,Tardó un poco más de lo esperado,32
+1693,13000001692,518,2,0,9.0,Podría mejorar el empaque,25
+1694,13000001693,414,2,0,9.0,Entrega rápida y producto excelente,35
+1695,13000001694,415,2,0,9.0,Entrega rápida y producto excelente,35
+1696,13000001695,1372,1,0,8.0,Muy conforme con la calidad,27
+1697,13000001696,995,1,0,7.0,Muy conforme con la calidad,27
+1698,13000001697,487,1,0,3.0,Volvería a comprar,18
+1699,13000001698,279,1,0,8.0,,3
+1700,13000001699,1176,1,0,8.0,Todo perfecto,13
+1701,13000001700,1166,2,0,9.0,Todo perfecto,13
+1702,13000001701,996,2,0,8.0,Muy conforme con la calidad,27
+1703,13000001702,746,1,0,5.0,Podría mejorar el empaque,25
+1704,13000001703,1048,1,0,7.0,Entrega rápida y producto excelente,35
+1705,13000001704,1042,2,0,4.0,Podría mejorar el empaque,25
+1706,13000001705,433,1,0,7.0,Tardó un poco más de lo esperado,32
+1707,13000001706,671,1,0,10.0,Todo perfecto,13
+1708,13000001707,347,1,0,10.0,Muy conforme con la calidad,27
+1709,13000001708,878,1,0,1.0,Atención muy buena,18
+1710,13000001709,1432,1,0,2.0,Todo perfecto,13
+1711,13000001710,160,2,0,8.0,Todo perfecto,13
+1712,13000001711,339,1,0,9.0,Todo perfecto,13
+1713,13000001712,119,1,0,1.0,Entrega rápida y producto excelente,35
+1714,13000001713,462,2,0,9.0,Volvería a comprar,18
+1715,13000001714,744,1,0,7.0,Tardó un poco más de lo esperado,32
+1716,13000001715,760,2,0,6.0,Volvería a comprar,18
+1717,13000001716,189,2,0,7.0,Atención muy buena,18
+1718,13000001717,720,1,0,7.0,Volvería a comprar,18
+1719,13000001718,1034,2,0,9.0,,3
+1720,13000001719,1346,2,0,3.0,Volvería a comprar,18
+1721,13000001720,1281,1,0,8.0,Podría mejorar el empaque,25
+1722,13000001721,463,1,0,4.0,Todo perfecto,13
+1723,13000001722,665,2,0,0.0,Todo perfecto,13
+1724,13000001723,42,1,0,9.0,Todo perfecto,13
+1725,13000001724,24,1,0,8.0,Podría mejorar el empaque,25
+1726,13000001725,1004,1,0,7.0,,3
+1727,13000001726,1220,2,0,9.0,Podría mejorar el empaque,25
+1728,13000001727,794,1,0,7.0,Podría mejorar el empaque,25
+1729,13000001728,184,2,0,9.0,Todo perfecto,13
+1730,13000001729,78,2,0,7.0,Atención muy buena,18
+1731,13000001730,246,1,0,8.0,Tardó un poco más de lo esperado,32
+1732,13000001731,519,1,0,5.0,Muy conforme con la calidad,27
+1733,13000001732,569,1,0,7.0,Podría mejorar el empaque,25
+1734,13000001733,721,2,0,8.0,Volvería a comprar,18
+1735,13000001734,234,2,0,10.0,Entrega rápida y producto excelente,35
+1736,13000001735,355,2,0,9.0,Volvería a comprar,18
+1737,13000001736,1477,1,0,4.0,Atención muy buena,18
+1738,13000001737,292,1,0,2.0,Muy conforme con la calidad,27
+1739,13000001738,829,2,0,5.0,,3
+1740,13000001739,637,1,0,3.0,Tardó un poco más de lo esperado,32
+1741,13000001740,481,1,0,7.0,,3
+1742,13000001741,117,2,0,10.0,Todo perfecto,13
+1743,13000001742,427,1,0,0.0,Volvería a comprar,18
+1744,13000001743,971,1,0,7.0,Volvería a comprar,18
+1745,13000001744,891,1,0,7.0,Tardó un poco más de lo esperado,32
+1746,13000001745,1400,2,0,8.0,,3
+1747,13000001746,1360,1,0,2.0,Muy conforme con la calidad,27
+1748,13000001747,1227,1,0,6.0,Atención muy buena,18
+1749,13000001748,581,1,0,2.0,Tardó un poco más de lo esperado,32
+1750,13000001749,884,2,0,8.0,Todo perfecto,13
+1751,13000001750,609,2,0,8.0,Tardó un poco más de lo esperado,32
+1752,13000001751,500,2,0,6.0,Todo perfecto,13
+1753,13000001752,325,2,0,10.0,,3
+1754,13000001753,848,1,0,10.0,Podría mejorar el empaque,25
+1755,13000001754,1116,1,0,8.0,Atención muy buena,18
+1756,13000001755,1251,2,0,8.0,Volvería a comprar,18
+1757,13000001756,1439,2,0,2.0,Entrega rápida y producto excelente,35
+1758,13000001757,900,2,0,7.0,Tardó un poco más de lo esperado,32
+1759,13000001758,434,1,0,10.0,Podría mejorar el empaque,25
+1760,13000001759,134,2,0,10.0,Entrega rápida y producto excelente,35
+1761,13000001760,131,2,0,9.0,Tardó un poco más de lo esperado,32
+1762,13000001761,547,2,0,6.0,Volvería a comprar,18
+1763,13000001762,946,1,0,3.0,Tardó un poco más de lo esperado,32
+1764,13000001763,1267,1,0,10.0,Tardó un poco más de lo esperado,32
+1765,13000001764,331,2,0,10.0,Volvería a comprar,18
+1766,13000001765,44,1,0,3.0,Atención muy buena,18
+1767,13000001766,1194,2,0,9.0,Muy conforme con la calidad,27
+1768,13000001767,734,1,0,6.0,Volvería a comprar,18
+1769,13000001768,543,2,0,9.0,Muy conforme con la calidad,27
+1770,13000001769,140,1,0,8.0,Entrega rápida y producto excelente,35
+1771,13000001770,474,2,0,6.0,Podría mejorar el empaque,25
+1772,13000001771,1038,1,0,9.0,Podría mejorar el empaque,25
+1773,13000001772,925,2,0,3.0,,3
+1774,13000001773,301,2,0,1.0,Atención muy buena,18
+1775,13000001774,750,2,0,10.0,Todo perfecto,13
+1776,13000001775,828,1,0,10.0,Podría mejorar el empaque,25
+1777,13000001776,1174,1,0,6.0,Podría mejorar el empaque,25
+1778,13000001777,882,2,0,10.0,Volvería a comprar,18
+1779,13000001778,1440,1,0,7.0,Atención muy buena,18
+1780,13000001779,422,1,0,6.0,Volvería a comprar,18
+1781,13000001780,505,1,0,10.0,Entrega rápida y producto excelente,35
+1782,13000001781,105,2,0,4.0,Volvería a comprar,18
+1783,13000001782,524,1,0,4.0,Tardó un poco más de lo esperado,32
+1784,13000001783,220,2,0,0.0,Entrega rápida y producto excelente,35
+1785,13000001784,737,1,0,9.0,Atención muy buena,18
+1786,13000001785,68,1,0,8.0,Volvería a comprar,18
+1787,13000001786,975,1,0,4.0,Muy conforme con la calidad,27
+1788,13000001787,12,2,0,5.0,Tardó un poco más de lo esperado,32
+1789,13000001788,1284,2,0,9.0,Muy conforme con la calidad,27
+1790,13000001789,326,1,0,9.0,Muy conforme con la calidad,27
+1791,13000001790,1098,2,0,9.0,Atención muy buena,18
+1792,13000001791,727,2,0,8.0,Atención muy buena,18
+1793,13000001792,521,2,0,3.0,Volvería a comprar,18
+1794,13000001793,5,2,0,6.0,Volvería a comprar,18
+1795,13000001794,1079,1,0,9.0,Tardó un poco más de lo esperado,32
+1796,13000001795,971,1,0,1.0,Tardó un poco más de lo esperado,32
+1797,13000001796,841,2,0,8.0,Atención muy buena,18
+1798,13000001797,1327,2,0,6.0,Todo perfecto,13
+1799,13000001798,435,1,0,8.0,Volvería a comprar,18
+1800,13000001799,376,2,0,8.0,Entrega rápida y producto excelente,35
+1801,13000001800,88,1,0,6.0,,3
+1802,13000001801,299,2,0,6.0,Todo perfecto,13
+1803,13000001802,687,2,0,10.0,Todo perfecto,13
+1804,13000001803,476,2,0,4.0,Atención muy buena,18
+1805,13000001804,1013,1,0,3.0,,3
+1806,13000001805,578,1,0,8.0,Tardó un poco más de lo esperado,32
+1807,13000001806,32,1,0,8.0,,3
+1808,13000001807,213,2,0,3.0,Volvería a comprar,18
+1809,13000001808,766,2,0,6.0,Entrega rápida y producto excelente,35
+1810,13000001809,509,1,0,8.0,Podría mejorar el empaque,25
+1811,13000001810,725,2,0,2.0,,3
+1812,13000001811,3,2,0,10.0,Atención muy buena,18
+1813,13000001812,1003,2,0,8.0,Todo perfecto,13
+1814,13000001813,825,1,0,3.0,Todo perfecto,13
+1815,13000001814,458,1,0,6.0,Tardó un poco más de lo esperado,32
+1816,13000001815,1342,1,0,8.0,,3
+1817,13000001816,1391,2,0,4.0,Tardó un poco más de lo esperado,32
+1818,13000001817,1246,2,0,8.0,Tardó un poco más de lo esperado,32
+1819,13000001818,719,1,0,3.0,Podría mejorar el empaque,25
+1820,13000001819,209,1,0,8.0,Atención muy buena,18
+1821,13000001820,71,2,0,8.0,Podría mejorar el empaque,25
+1822,13000001821,156,2,0,9.0,Todo perfecto,13
+1823,13000001822,1148,1,0,9.0,Podría mejorar el empaque,25
+1824,13000001823,1184,2,0,7.0,Podría mejorar el empaque,25
+1825,13000001824,1116,1,0,7.0,Muy conforme con la calidad,27
+1826,13000001825,623,2,0,6.0,Entrega rápida y producto excelente,35
+1827,13000001826,1330,1,0,9.0,Entrega rápida y producto excelente,35
+1828,13000001827,370,1,0,4.0,Volvería a comprar,18
+1829,13000001828,566,1,0,7.0,Volvería a comprar,18
+1830,13000001829,93,2,0,10.0,Entrega rápida y producto excelente,35
+1831,13000001830,814,1,0,1.0,Muy conforme con la calidad,27
+1832,13000001831,247,1,0,9.0,Todo perfecto,13
+1833,13000001832,1286,2,0,1.0,Atención muy buena,18
+1834,13000001833,1290,2,0,9.0,Entrega rápida y producto excelente,35
+1835,13000001834,1222,2,0,8.0,Muy conforme con la calidad,27
+1836,13000001835,736,2,0,10.0,Tardó un poco más de lo esperado,32
+1837,13000001836,1135,1,0,8.0,Entrega rápida y producto excelente,35
+1838,13000001837,3,2,0,10.0,Muy conforme con la calidad,27
+1839,13000001838,997,1,0,9.0,Tardó un poco más de lo esperado,32
+1840,13000001839,957,1,0,6.0,,3
+1841,13000001840,1455,2,0,1.0,Atención muy buena,18
+1842,13000001841,918,1,0,9.0,Entrega rápida y producto excelente,35
+1843,13000001842,69,1,0,10.0,Podría mejorar el empaque,25
+1844,13000001843,663,1,0,6.0,Podría mejorar el empaque,25
+1845,13000001844,209,1,0,3.0,,3
+1846,13000001845,71,2,0,9.0,,3
+1847,13000001846,758,1,0,3.0,Volvería a comprar,18
+1848,13000001847,549,2,0,2.0,Entrega rápida y producto excelente,35
+1849,13000001848,1099,1,0,5.0,Atención muy buena,18
+1850,13000001849,26,2,0,9.0,Muy conforme con la calidad,27
+1851,13000001850,1176,2,0,9.0,Tardó un poco más de lo esperado,32
+1852,13000001851,436,1,0,7.0,Muy conforme con la calidad,27
+1853,13000001852,562,1,0,7.0,Volvería a comprar,18
+1854,13000001853,487,2,0,8.0,Entrega rápida y producto excelente,35
+1855,13000001854,1253,1,0,8.0,,3
+1856,13000001855,1466,1,0,9.0,Entrega rápida y producto excelente,35
+1857,13000001856,348,2,0,2.0,,3
+1858,13000001857,472,1,0,8.0,Volvería a comprar,18
+1859,13000001858,900,1,0,10.0,Todo perfecto,13
+1860,13000001859,296,1,0,8.0,Entrega rápida y producto excelente,35
+1861,13000001860,514,2,0,8.0,Volvería a comprar,18
+1862,13000001861,672,2,0,8.0,Muy conforme con la calidad,27
+1863,13000001862,564,2,0,8.0,,3
+1864,13000001863,541,2,0,5.0,Muy conforme con la calidad,27
+1865,13000001864,194,1,0,5.0,Podría mejorar el empaque,25
+1866,13000001865,169,1,0,8.0,,3
+1867,13000001866,793,2,0,6.0,Tardó un poco más de lo esperado,32
+1868,13000001867,189,2,0,8.0,Todo perfecto,13
+1869,13000001868,1371,2,0,8.0,Tardó un poco más de lo esperado,32
+1870,13000001869,863,2,0,5.0,Entrega rápida y producto excelente,35
+1871,13000001870,250,1,0,8.0,Podría mejorar el empaque,25
+1872,13000001871,296,2,0,8.0,Podría mejorar el empaque,25
+1873,13000001872,548,2,0,9.0,Todo perfecto,13
+1874,13000001873,1224,1,0,9.0,Muy conforme con la calidad,27
+1875,13000001874,1051,1,0,6.0,Podría mejorar el empaque,25
+1876,13000001875,706,2,0,9.0,Atención muy buena,18
+1877,13000001876,205,1,0,8.0,Todo perfecto,13
+1878,13000001877,384,1,0,10.0,Podría mejorar el empaque,25
+1879,13000001878,426,2,0,10.0,Entrega rápida y producto excelente,35
+1880,13000001879,144,2,0,5.0,Todo perfecto,13
+1881,13000001880,324,1,0,9.0,Todo perfecto,13
+1882,13000001881,417,1,0,9.0,Volvería a comprar,18
+1883,13000001882,15,1,0,9.0,Tardó un poco más de lo esperado,32
+1884,13000001883,577,1,0,2.0,Todo perfecto,13
+1885,13000001884,172,2,0,6.0,Volvería a comprar,18
+1886,13000001885,1414,2,0,10.0,Atención muy buena,18
+1887,13000001886,570,1,0,1.0,,3
+1888,13000001887,327,1,0,7.0,Atención muy buena,18
+1889,13000001888,1287,1,0,7.0,Todo perfecto,13
+1890,13000001889,446,1,0,3.0,Podría mejorar el empaque,25
+1891,13000001890,1270,1,0,9.0,,3
+1892,13000001891,1294,1,0,4.0,Volvería a comprar,18
+1893,13000001892,233,2,0,10.0,Podría mejorar el empaque,25
+1894,13000001893,793,1,0,6.0,Entrega rápida y producto excelente,35
+1895,13000001894,949,1,0,2.0,Atención muy buena,18
+1896,13000001895,1469,2,0,7.0,Atención muy buena,18
+1897,13000001896,176,2,0,1.0,Entrega rápida y producto excelente,35
+1898,13000001897,1393,2,0,0.0,Podría mejorar el empaque,25
+1899,13000001898,831,2,0,5.0,Atención muy buena,18
+1900,13000001899,245,1,0,7.0,Entrega rápida y producto excelente,35
+1901,13000001900,293,2,0,7.0,Podría mejorar el empaque,25
+1902,13000001901,779,1,0,3.0,Volvería a comprar,18
+1903,13000001902,30,1,0,8.0,Podría mejorar el empaque,25
+1904,13000001903,253,1,0,8.0,Tardó un poco más de lo esperado,32
+1905,13000001904,1065,1,0,9.0,Muy conforme con la calidad,27
+1906,13000001905,124,1,0,9.0,Atención muy buena,18
+1907,13000001906,1026,1,0,9.0,Tardó un poco más de lo esperado,32
+1908,13000001907,1238,1,0,5.0,,3
+1909,13000001908,59,2,0,10.0,Podría mejorar el empaque,25
+1910,13000001909,204,2,0,10.0,Volvería a comprar,18
+1911,13000001910,775,1,0,8.0,Podría mejorar el empaque,25
+1912,13000001911,584,1,0,0.0,Tardó un poco más de lo esperado,32
+1913,13000001912,1202,2,0,9.0,Podría mejorar el empaque,25
+1914,13000001913,1333,1,0,6.0,Todo perfecto,13
+1915,13000001914,6,2,0,6.0,Atención muy buena,18
+1916,13000001915,1315,1,0,10.0,Entrega rápida y producto excelente,35
+1917,13000001916,733,1,0,10.0,Atención muy buena,18
+1918,13000001917,1002,1,0,7.0,Muy conforme con la calidad,27
+1919,13000001918,498,2,0,6.0,Volvería a comprar,18
+1920,13000001919,979,1,0,8.0,Volvería a comprar,18
+1921,13000001920,880,1,0,5.0,Muy conforme con la calidad,27
+1922,13000001921,459,2,0,10.0,Atención muy buena,18
+1923,13000001922,956,2,0,6.0,,3
+1924,13000001923,685,1,0,10.0,Tardó un poco más de lo esperado,32
+1925,13000001924,489,2,0,10.0,Atención muy buena,18
+1926,13000001925,798,1,0,10.0,Entrega rápida y producto excelente,35
+1927,13000001926,757,2,0,8.0,Entrega rápida y producto excelente,35
+1928,13000001927,930,1,0,4.0,Tardó un poco más de lo esperado,32
+1929,13000001928,725,1,0,7.0,Podría mejorar el empaque,25
+1930,13000001929,173,1,0,2.0,Entrega rápida y producto excelente,35
+1931,13000001930,1265,1,0,10.0,Entrega rápida y producto excelente,35
+1932,13000001931,724,1,0,8.0,Volvería a comprar,18
+1933,13000001932,302,2,0,10.0,Entrega rápida y producto excelente,35
+1934,13000001933,817,2,0,7.0,Todo perfecto,13
+1935,13000001934,425,1,0,5.0,Atención muy buena,18
+1936,13000001935,1039,1,0,10.0,Tardó un poco más de lo esperado,32
+1937,13000001936,1278,1,0,1.0,Todo perfecto,13
+1938,13000001937,1151,1,0,6.0,Entrega rápida y producto excelente,35
+1939,13000001938,181,1,0,9.0,Entrega rápida y producto excelente,35
+1940,13000001939,690,1,0,10.0,Atención muy buena,18
+1941,13000001940,1120,2,0,6.0,Atención muy buena,18
+1942,13000001941,423,2,0,6.0,Volvería a comprar,18
+1943,13000001942,1109,2,0,10.0,Todo perfecto,13
+1944,13000001943,224,2,0,8.0,Todo perfecto,13
+1945,13000001944,1457,2,0,10.0,Volvería a comprar,18
+1946,13000001945,22,2,0,4.0,Podría mejorar el empaque,25
+1947,13000001946,743,2,0,9.0,Podría mejorar el empaque,25
+1948,13000001947,1123,1,0,10.0,Atención muy buena,18
+1949,13000001948,1065,1,0,9.0,,3
+1950,13000001949,1278,1,0,6.0,,3
+1951,13000001950,779,2,0,0.0,Entrega rápida y producto excelente,35
+1952,13000001951,498,1,0,9.0,Atención muy buena,18
+1953,13000001952,171,2,0,5.0,Muy conforme con la calidad,27
+1954,13000001953,1483,1,0,10.0,Volvería a comprar,18
+1955,13000001954,1355,1,0,6.0,Todo perfecto,13
+1956,13000001955,1018,1,0,8.0,Podría mejorar el empaque,25
+1957,13000001956,1449,2,0,7.0,Muy conforme con la calidad,27
+1958,13000001957,818,2,0,6.0,Atención muy buena,18
+1959,13000001958,701,1,0,9.0,Atención muy buena,18
+1960,13000001959,584,2,0,9.0,,3
+1961,13000001960,1193,1,0,2.0,Atención muy buena,18
+1962,13000001961,266,1,0,10.0,Volvería a comprar,18
+1963,13000001962,19,1,0,7.0,,3
+1964,13000001963,1437,2,0,8.0,Podría mejorar el empaque,25
+1965,13000001964,814,2,0,9.0,Volvería a comprar,18
+1966,13000001965,657,1,0,7.0,Volvería a comprar,18
+1967,13000001966,1215,2,0,9.0,Entrega rápida y producto excelente,35
+1968,13000001967,1281,2,0,2.0,Tardó un poco más de lo esperado,32
+1969,13000001968,590,1,0,1.0,Muy conforme con la calidad,27
+1970,13000001969,884,2,0,7.0,Volvería a comprar,18
+1971,13000001970,403,1,0,7.0,Volvería a comprar,18
+1972,13000001971,894,2,0,10.0,Atención muy buena,18
+1973,13000001972,615,2,0,7.0,Muy conforme con la calidad,27
+1974,13000001973,1133,1,0,3.0,,3
+1975,13000001974,1358,2,0,3.0,Entrega rápida y producto excelente,35
+1976,13000001975,934,2,0,2.0,Entrega rápida y producto excelente,35
+1977,13000001976,252,2,0,7.0,Tardó un poco más de lo esperado,32
+1978,13000001977,1320,1,0,8.0,Todo perfecto,13
+1979,13000001978,680,1,0,8.0,,3
+1980,13000001979,41,2,0,0.0,Volvería a comprar,18
+1981,13000001980,28,1,0,0.0,Tardó un poco más de lo esperado,32
+1982,13000001981,1186,1,0,3.0,Entrega rápida y producto excelente,35
+1983,13000001982,378,2,0,8.0,Entrega rápida y producto excelente,35
+1984,13000001983,1342,2,0,9.0,Todo perfecto,13
+1985,13000001984,1311,1,0,10.0,,3
+1986,13000001985,805,1,0,9.0,,3
+1987,13000001986,801,1,0,9.0,Volvería a comprar,18
+1988,13000001987,422,2,0,10.0,,3
+1989,13000001988,875,1,0,0.0,Tardó un poco más de lo esperado,32
+1990,13000001989,1387,2,0,8.0,Podría mejorar el empaque,25
+1991,13000001990,353,1,0,8.0,Podría mejorar el empaque,25
+1992,13000001991,1014,2,0,7.0,Muy conforme con la calidad,27
+1993,13000001992,781,1,0,4.0,Todo perfecto,13
+1994,13000001993,1134,1,0,9.0,Volvería a comprar,18
+1995,13000001994,1467,1,0,5.0,Volvería a comprar,18
+1996,13000001995,928,1,0,8.0,Atención muy buena,18
+1997,13000001996,1455,1,0,8.0,Podría mejorar el empaque,25
+1998,13000001997,895,2,0,8.0,Volvería a comprar,18
+1999,13000001998,1200,2,0,8.0,Podría mejorar el empaque,25
+2000,13000001999,150,1,0,0.0,,3
+2001,13000002000,1053,2,0,5.0,,3
+2002,13000002001,1475,1,0,4.0,Todo perfecto,13
+2003,13000002002,761,1,0,8.0,Atención muy buena,18
+2004,13000002003,1224,1,0,10.0,Podría mejorar el empaque,25
+2005,13000002004,1446,1,0,8.0,Podría mejorar el empaque,25
+2006,13000002005,1168,1,0,7.0,,3
+2007,13000002006,926,1,0,9.0,,3
+2008,13000002007,1474,1,0,3.0,Entrega rápida y producto excelente,35
+2009,13000002008,24,1,0,5.0,Muy conforme con la calidad,27
+2010,13000002009,431,2,0,8.0,Volvería a comprar,18
+2011,13000002010,662,1,0,9.0,Todo perfecto,13
+2012,13000002011,1374,2,0,6.0,,3
+2013,13000002012,552,1,0,8.0,Muy conforme con la calidad,27
+2014,13000002013,1302,2,0,8.0,Muy conforme con la calidad,27
+2015,13000002014,555,1,0,7.0,Volvería a comprar,18
+2016,13000002015,1289,2,0,7.0,Tardó un poco más de lo esperado,32
+2017,13000002016,851,2,0,8.0,Volvería a comprar,18
+2018,13000002017,1418,1,0,9.0,Volvería a comprar,18
+2019,13000002018,935,1,0,10.0,Atención muy buena,18
+2020,13000002019,834,2,0,7.0,Tardó un poco más de lo esperado,32
+2021,13000002020,663,1,0,9.0,Muy conforme con la calidad,27
+2022,13000002021,245,2,0,7.0,Muy conforme con la calidad,27
+2023,13000002022,391,2,0,4.0,Entrega rápida y producto excelente,35
+2024,13000002023,1111,2,0,10.0,Tardó un poco más de lo esperado,32
+2025,13000002024,1384,1,0,9.0,Atención muy buena,18
+2026,13000002025,727,2,0,8.0,Podría mejorar el empaque,25
+2027,13000002026,735,1,0,9.0,Podría mejorar el empaque,25
+2028,13000002027,1233,1,0,10.0,Muy conforme con la calidad,27
+2029,13000002028,238,1,0,7.0,Muy conforme con la calidad,27
+2030,13000002029,308,2,0,8.0,Tardó un poco más de lo esperado,32
+2031,13000002030,1145,2,0,10.0,Muy conforme con la calidad,27
+2032,13000002031,1359,1,0,8.0,Entrega rápida y producto excelente,35
+2033,13000002032,1440,1,0,9.0,Entrega rápida y producto excelente,35
+2034,13000002033,1347,1,0,8.0,,3
+2035,13000002034,1048,2,0,7.0,Entrega rápida y producto excelente,35
+2036,13000002035,475,1,0,9.0,Muy conforme con la calidad,27
+2037,13000002036,208,2,0,6.0,Atención muy buena,18
+2038,13000002037,1477,1,0,4.0,Podría mejorar el empaque,25
+2039,13000002038,1029,1,0,9.0,Tardó un poco más de lo esperado,32
+2040,13000002039,33,2,0,7.0,Volvería a comprar,18
+2041,13000002040,902,1,0,3.0,Atención muy buena,18
+2042,13000002041,1032,1,0,9.0,Podría mejorar el empaque,25
+2043,13000002042,915,1,0,6.0,Atención muy buena,18
+2044,13000002043,987,1,0,7.0,Todo perfecto,13
+2045,13000002044,675,1,0,9.0,,3
+2046,13000002045,335,2,0,8.0,Entrega rápida y producto excelente,35
+2047,13000002046,332,1,0,8.0,Todo perfecto,13
+2048,13000002047,1465,2,0,5.0,Todo perfecto,13
+2049,13000002048,814,1,0,9.0,Volvería a comprar,18
+2050,13000002049,586,1,0,10.0,Todo perfecto,13
+2051,13000002050,1012,1,0,8.0,Todo perfecto,13
+2052,13000002051,1383,2,0,9.0,Muy conforme con la calidad,27
+2053,13000002052,951,1,0,8.0,Podría mejorar el empaque,25
+2054,13000002053,448,1,0,5.0,Atención muy buena,18
+2055,13000002054,123,1,0,9.0,Todo perfecto,13
+2056,13000002055,1044,1,0,6.0,Entrega rápida y producto excelente,35
+2057,13000002056,264,2,0,2.0,Podría mejorar el empaque,25
+2058,13000002057,205,1,0,7.0,Todo perfecto,13
+2059,13000002058,1297,1,0,10.0,Tardó un poco más de lo esperado,32
+2060,13000002059,125,1,0,8.0,Volvería a comprar,18
+2061,13000002060,352,1,0,10.0,Atención muy buena,18
+2062,13000002061,1360,2,0,2.0,Volvería a comprar,18
+2063,13000002062,455,1,0,9.0,Entrega rápida y producto excelente,35
+2064,13000002063,1430,2,0,7.0,,3
+2065,13000002064,289,2,0,10.0,Muy conforme con la calidad,27
+2066,13000002065,221,1,0,8.0,Entrega rápida y producto excelente,35
+2067,13000002066,465,1,0,7.0,Muy conforme con la calidad,27
+2068,13000002067,601,2,0,9.0,Entrega rápida y producto excelente,35
+2069,13000002068,757,1,0,7.0,Todo perfecto,13
+2070,13000002069,1448,1,0,9.0,Atención muy buena,18
+2071,13000002070,447,1,0,9.0,Muy conforme con la calidad,27
+2072,13000002071,281,1,0,9.0,Volvería a comprar,18
+2073,13000002072,179,2,0,7.0,Tardó un poco más de lo esperado,32
+2074,13000002073,152,1,0,0.0,Muy conforme con la calidad,27
+2075,13000002074,1272,2,0,6.0,Muy conforme con la calidad,27
+2076,13000002075,299,1,0,7.0,Volvería a comprar,18
+2077,13000002076,707,1,0,9.0,Todo perfecto,13
+2078,13000002077,685,1,0,4.0,,3
+2079,13000002078,45,2,0,8.0,Muy conforme con la calidad,27
+2080,13000002079,279,2,0,7.0,Muy conforme con la calidad,27
+2081,13000002080,1128,2,0,6.0,Podría mejorar el empaque,25
+2082,13000002081,596,1,0,2.0,,3
+2083,13000002082,1256,2,0,10.0,Podría mejorar el empaque,25
+2084,13000002083,88,1,0,10.0,Atención muy buena,18
+2085,13000002084,1147,2,0,10.0,,3
+2086,13000002085,715,2,0,8.0,Todo perfecto,13
+2087,13000002086,658,1,0,10.0,Podría mejorar el empaque,25
+2088,13000002087,902,1,0,10.0,Volvería a comprar,18
+2089,13000002088,274,1,0,6.0,Volvería a comprar,18
+2090,13000002089,775,2,0,10.0,Entrega rápida y producto excelente,35
+2091,13000002090,373,1,0,10.0,Todo perfecto,13
+2092,13000002091,939,1,0,10.0,Atención muy buena,18
+2093,13000002092,652,2,0,9.0,Atención muy buena,18
+2094,13000002093,1224,1,0,8.0,Podría mejorar el empaque,25
+2095,13000002094,714,1,0,7.0,Muy conforme con la calidad,27
+2096,13000002095,946,2,0,10.0,Podría mejorar el empaque,25
+2097,13000002096,1110,1,0,8.0,Volvería a comprar,18
+2098,13000002097,749,1,0,7.0,Todo perfecto,13
+2099,13000002098,1402,2,0,2.0,Podría mejorar el empaque,25
+2100,13000002099,284,1,0,9.0,Tardó un poco más de lo esperado,32
+2101,13000002100,679,1,0,8.0,Podría mejorar el empaque,25
+2102,13000002101,648,2,0,8.0,Podría mejorar el empaque,25
+2103,13000002102,1297,2,0,8.0,Tardó un poco más de lo esperado,32
+2104,13000002103,731,1,0,8.0,Tardó un poco más de lo esperado,32
+2105,13000002104,292,2,0,9.0,Volvería a comprar,18
+2106,13000002105,1252,1,0,5.0,Atención muy buena,18
+2107,13000002106,1340,1,0,8.0,,3
+2108,13000002107,1129,2,0,7.0,,3
+2109,13000002108,446,1,0,10.0,,3
+2110,13000002109,1111,1,0,6.0,Muy conforme con la calidad,27
+2111,13000002110,692,1,0,8.0,,3
+2112,13000002111,1456,1,0,8.0,Tardó un poco más de lo esperado,32
+2113,13000002112,1430,1,0,8.0,Entrega rápida y producto excelente,35
+2114,13000002113,1347,2,0,9.0,Atención muy buena,18
+2115,13000002114,333,1,0,10.0,,3
+2116,13000002115,1454,1,0,6.0,Atención muy buena,18
+2117,13000002116,505,1,0,7.0,Todo perfecto,13
+2118,13000002117,926,2,0,8.0,Muy conforme con la calidad,27
+2119,13000002118,1067,1,0,8.0,Volvería a comprar,18
+2120,13000002119,590,1,0,6.0,Muy conforme con la calidad,27
+2121,13000002120,4,2,0,0.0,,3
+2122,13000002121,250,2,0,6.0,,3
+2123,13000002122,724,1,0,9.0,Entrega rápida y producto excelente,35
+2124,13000002123,965,2,0,7.0,Tardó un poco más de lo esperado,32
+2125,13000002124,110,1,0,10.0,Entrega rápida y producto excelente,35
+2126,13000002125,294,1,0,8.0,Entrega rápida y producto excelente,35
+2127,13000002126,1378,2,0,8.0,Podría mejorar el empaque,25
+2128,13000002127,757,1,0,8.0,Entrega rápida y producto excelente,35
+2129,13000002128,979,2,0,8.0,Volvería a comprar,18
+2130,13000002129,1034,1,0,8.0,Volvería a comprar,18
+2131,13000002130,1453,1,0,2.0,Entrega rápida y producto excelente,35
+2132,13000002131,165,2,0,5.0,Podría mejorar el empaque,25
+2133,13000002132,1296,2,0,3.0,Entrega rápida y producto excelente,35
+2134,13000002133,27,2,0,8.0,Todo perfecto,13
+2135,13000002134,540,2,0,5.0,Tardó un poco más de lo esperado,32
+2136,13000002135,615,1,0,6.0,Atención muy buena,18
+2137,13000002136,758,2,0,4.0,Volvería a comprar,18
+2138,13000002137,554,1,0,1.0,Muy conforme con la calidad,27
+2139,13000002138,537,1,0,4.0,Entrega rápida y producto excelente,35
+2140,13000002139,1170,1,0,9.0,Podría mejorar el empaque,25
+2141,13000002140,1130,1,0,7.0,Volvería a comprar,18
+2142,13000002141,711,2,0,10.0,Podría mejorar el empaque,25
+2143,13000002142,889,2,0,2.0,,3
+2144,13000002143,618,1,0,6.0,,3
+2145,13000002144,1236,1,0,9.0,Tardó un poco más de lo esperado,32
+2146,13000002145,552,1,0,9.0,Atención muy buena,18
+2147,13000002146,180,1,0,9.0,Muy conforme con la calidad,27
+2148,13000002147,619,1,0,6.0,Tardó un poco más de lo esperado,32
+2149,13000002148,627,2,0,9.0,Muy conforme con la calidad,27
+2150,13000002149,711,1,0,7.0,Tardó un poco más de lo esperado,32
+2151,13000002150,457,1,0,8.0,Entrega rápida y producto excelente,35
+2152,13000002151,679,1,0,10.0,Tardó un poco más de lo esperado,32
+2153,13000002152,1485,1,0,8.0,Podría mejorar el empaque,25
+2154,13000002153,642,1,0,4.0,Muy conforme con la calidad,27
+2155,13000002154,809,1,0,4.0,Todo perfecto,13
+2156,13000002155,809,2,0,2.0,Podría mejorar el empaque,25
+2157,13000002156,1326,1,0,8.0,Podría mejorar el empaque,25
+2158,13000002157,1322,1,0,5.0,Entrega rápida y producto excelente,35
+2159,13000002158,39,2,0,9.0,Entrega rápida y producto excelente,35
+2160,13000002159,393,1,0,8.0,Todo perfecto,13
+2161,13000002160,616,1,0,2.0,Entrega rápida y producto excelente,35
+2162,13000002161,1149,2,0,9.0,Podría mejorar el empaque,25
+2163,13000002162,193,2,0,10.0,Muy conforme con la calidad,27
+2164,13000002163,634,2,0,3.0,Volvería a comprar,18
+2165,13000002164,34,2,0,3.0,Todo perfecto,13
+2166,13000002165,468,1,0,10.0,Podría mejorar el empaque,25
+2167,13000002166,441,1,0,10.0,Todo perfecto,13
+2168,13000002167,77,2,0,7.0,Todo perfecto,13
+2169,13000002168,580,1,0,10.0,,3
+2170,13000002169,512,1,0,9.0,Volvería a comprar,18
+2171,13000002170,773,2,0,7.0,Podría mejorar el empaque,25
+2172,13000002171,215,1,0,7.0,Atención muy buena,18
+2173,13000002172,1150,2,0,5.0,Podría mejorar el empaque,25
+2174,13000002173,781,2,0,7.0,Muy conforme con la calidad,27
+2175,13000002174,6,2,0,7.0,Atención muy buena,18
+2176,13000002175,956,1,0,6.0,Atención muy buena,18
+2177,13000002176,665,1,0,8.0,Todo perfecto,13
+2178,13000002177,680,1,0,7.0,,3
+2179,13000002178,1311,2,0,1.0,Podría mejorar el empaque,25
+2180,13000002179,644,1,0,8.0,Podría mejorar el empaque,25
+2181,13000002180,1149,1,0,8.0,Entrega rápida y producto excelente,35
+2182,13000002181,945,2,0,4.0,,3
+2183,13000002182,506,1,0,10.0,Entrega rápida y producto excelente,35
+2184,13000002183,1374,1,0,7.0,Podría mejorar el empaque,25
+2185,13000002184,216,1,0,10.0,,3
+2186,13000002185,520,1,0,8.0,,3
+2187,13000002186,328,2,0,10.0,Tardó un poco más de lo esperado,32
+2188,13000002187,1110,1,0,7.0,Todo perfecto,13
+2189,13000002188,704,1,0,3.0,Entrega rápida y producto excelente,35
+2190,13000002189,326,1,0,10.0,Entrega rápida y producto excelente,35
+2191,13000002190,971,2,0,10.0,Podría mejorar el empaque,25
+2192,13000002191,991,1,0,8.0,Muy conforme con la calidad,27
+2193,13000002192,975,1,0,7.0,Tardó un poco más de lo esperado,32
+2194,13000002193,677,1,0,6.0,Atención muy buena,18
+2195,13000002194,527,2,0,8.0,Muy conforme con la calidad,27
+2196,13000002195,1054,1,0,10.0,Entrega rápida y producto excelente,35
+2197,13000002196,1336,1,0,10.0,Atención muy buena,18
+2198,13000002197,889,1,0,7.0,,3
+2199,13000002198,256,1,0,7.0,,3
+2200,13000002199,242,1,0,8.0,Podría mejorar el empaque,25
+2201,13000002200,244,1,0,10.0,,3
+2202,13000002201,706,1,0,10.0,Tardó un poco más de lo esperado,32
+2203,13000002202,1169,1,0,8.0,Atención muy buena,18
+2204,13000002203,618,2,0,6.0,,3
+2205,13000002204,1404,1,0,9.0,Todo perfecto,13
+2206,13000002205,1462,2,0,1.0,Muy conforme con la calidad,27
+2207,13000002206,525,1,0,10.0,Tardó un poco más de lo esperado,32
+2208,13000002207,574,1,0,4.0,Podría mejorar el empaque,25
+2209,13000002208,681,1,0,0.0,Atención muy buena,18
+2210,13000002209,748,1,0,3.0,Todo perfecto,13
+2211,13000002210,1266,1,0,5.0,Muy conforme con la calidad,27
+2212,13000002211,293,1,0,9.0,Todo perfecto,13
+2213,13000002212,555,2,0,5.0,Entrega rápida y producto excelente,35
+2214,13000002213,560,1,0,10.0,Tardó un poco más de lo esperado,32
+2215,13000002214,1021,2,0,10.0,Muy conforme con la calidad,27
+2216,13000002215,201,1,0,9.0,Atención muy buena,18
+2217,13000002216,1458,1,0,3.0,Entrega rápida y producto excelente,35
+2218,13000002217,528,1,0,1.0,Entrega rápida y producto excelente,35
+2219,13000002218,919,1,0,9.0,Tardó un poco más de lo esperado,32
+2220,13000002219,445,1,0,2.0,Atención muy buena,18
+2221,13000002220,1368,2,0,8.0,Atención muy buena,18
+2222,13000002221,529,1,0,8.0,Atención muy buena,18
+2223,13000002222,1186,2,0,10.0,Todo perfecto,13
+2224,13000002223,164,2,0,7.0,Todo perfecto,13
+2225,13000002224,204,1,0,5.0,Volvería a comprar,18
+2226,13000002225,164,2,0,8.0,Podría mejorar el empaque,25
+2227,13000002226,253,2,0,10.0,Entrega rápida y producto excelente,35
+2228,13000002227,1155,2,0,9.0,Entrega rápida y producto excelente,35
+2229,13000002228,193,1,0,5.0,,3
+2230,13000002229,778,1,0,8.0,Atención muy buena,18
+2231,13000002230,593,1,0,10.0,Volvería a comprar,18
+2232,13000002231,772,2,0,4.0,Entrega rápida y producto excelente,35
+2233,13000002232,32,2,0,7.0,Todo perfecto,13
+2234,13000002233,961,1,0,7.0,Atención muy buena,18
+2235,13000002234,1062,1,0,9.0,Podría mejorar el empaque,25
+2236,13000002235,700,1,0,7.0,Entrega rápida y producto excelente,35
+2237,13000002236,376,2,0,3.0,Muy conforme con la calidad,27
+2238,13000002237,866,1,0,8.0,Podría mejorar el empaque,25
+2239,13000002238,136,2,0,5.0,Tardó un poco más de lo esperado,32
+2240,13000002239,888,2,0,9.0,Muy conforme con la calidad,27
+2241,13000002240,1255,1,0,9.0,,3
+2242,13000002241,601,1,0,9.0,Podría mejorar el empaque,25
+2243,13000002242,204,1,0,7.0,Volvería a comprar,18
+2244,13000002243,859,2,0,8.0,,3
+2245,13000002244,1029,1,0,5.0,Podría mejorar el empaque,25
+2246,13000002245,447,2,0,8.0,Muy conforme con la calidad,27
+2247,13000002246,239,1,0,7.0,Volvería a comprar,18
+2248,13000002247,101,1,0,4.0,Tardó un poco más de lo esperado,32
+2249,13000002248,1263,2,0,9.0,Todo perfecto,13
+2250,13000002249,881,2,0,6.0,Atención muy buena,18
+2251,13000002250,360,2,0,7.0,Atención muy buena,18
+2252,13000002251,1373,2,0,3.0,Muy conforme con la calidad,27
+2253,13000002252,843,1,0,9.0,Entrega rápida y producto excelente,35
+2254,13000002253,307,1,0,9.0,Volvería a comprar,18
+2255,13000002254,1162,1,0,5.0,Todo perfecto,13
+2256,13000002255,708,2,0,8.0,Tardó un poco más de lo esperado,32
+2257,13000002256,1034,1,0,4.0,Volvería a comprar,18
+2258,13000002257,1492,1,0,4.0,Tardó un poco más de lo esperado,32
+2259,13000002258,1388,1,0,10.0,Volvería a comprar,18
+2260,13000002259,262,1,0,9.0,Todo perfecto,13
+2261,13000002260,1188,1,0,10.0,Entrega rápida y producto excelente,35
+2262,13000002261,678,1,0,9.0,Todo perfecto,13
+2263,13000002262,546,2,0,8.0,Volvería a comprar,18
+2264,13000002263,1206,1,0,8.0,Tardó un poco más de lo esperado,32
+2265,13000002264,27,2,0,10.0,Entrega rápida y producto excelente,35
+2266,13000002265,184,2,0,7.0,Atención muy buena,18
+2267,13000002266,536,1,0,8.0,Todo perfecto,13
+2268,13000002267,1350,1,0,10.0,Muy conforme con la calidad,27
+2269,13000002268,542,1,0,9.0,Tardó un poco más de lo esperado,32
+2270,13000002269,1151,1,0,10.0,Volvería a comprar,18
+2271,13000002270,1471,2,0,7.0,Todo perfecto,13
+2272,13000002271,672,2,0,6.0,Todo perfecto,13
+2273,13000002272,1259,2,0,10.0,,3
+2274,13000002273,1396,1,0,8.0,Atención muy buena,18
+2275,13000002274,284,1,0,8.0,,3
+2276,13000002275,183,1,0,7.0,Atención muy buena,18
+2277,13000002276,1353,1,0,4.0,,3
+2278,13000002277,978,2,0,10.0,,3
+2279,13000002278,1244,1,0,2.0,Entrega rápida y producto excelente,35
+2280,13000002279,1430,1,0,9.0,Entrega rápida y producto excelente,35
+2281,13000002280,1218,2,0,8.0,Muy conforme con la calidad,27
+2282,13000002281,574,1,0,9.0,Muy conforme con la calidad,27
+2283,13000002282,1287,2,0,7.0,Muy conforme con la calidad,27
+2284,13000002283,230,1,0,9.0,Entrega rápida y producto excelente,35
+2285,13000002284,314,2,0,6.0,Volvería a comprar,18
+2286,13000002285,203,2,0,8.0,Entrega rápida y producto excelente,35
+2287,13000002286,980,1,0,7.0,Entrega rápida y producto excelente,35
+2288,13000002287,37,1,0,8.0,Podría mejorar el empaque,25
+2289,13000002288,1444,1,0,10.0,Podría mejorar el empaque,25
+2290,13000002289,656,1,0,7.0,Todo perfecto,13
+2291,13000002290,731,1,0,3.0,Tardó un poco más de lo esperado,32
+2292,13000002291,1265,2,0,8.0,Tardó un poco más de lo esperado,32
+2293,13000002292,896,1,0,5.0,Podría mejorar el empaque,25
+2294,13000002293,372,1,0,9.0,Todo perfecto,13
+2295,13000002294,1175,1,0,7.0,Todo perfecto,13
+2296,13000002295,302,2,0,10.0,,3
+2297,13000002296,436,2,0,9.0,,3
+2298,13000002297,1245,2,0,3.0,Atención muy buena,18
+2299,13000002298,81,2,0,10.0,Podría mejorar el empaque,25
+2300,13000002299,1268,1,0,8.0,,3
+2301,13000002300,478,1,0,2.0,Tardó un poco más de lo esperado,32
+2302,13000002301,882,2,0,8.0,Atención muy buena,18
+2303,13000002302,673,2,0,10.0,Atención muy buena,18
+2304,13000002303,1352,1,0,9.0,Atención muy buena,18
+2305,13000002304,1495,1,0,10.0,,3
+2306,13000002305,760,2,0,8.0,Podría mejorar el empaque,25
+2307,13000002306,954,2,0,9.0,Muy conforme con la calidad,27
+2308,13000002307,212,1,0,7.0,Tardó un poco más de lo esperado,32
+2309,13000002308,1194,2,0,9.0,Podría mejorar el empaque,25
+2310,13000002309,31,1,0,10.0,Atención muy buena,18
+2311,13000002310,585,2,0,10.0,Muy conforme con la calidad,27
+2312,13000002311,140,2,0,9.0,Podría mejorar el empaque,25
+2313,13000002312,1096,2,0,7.0,Todo perfecto,13
+2314,13000002313,1468,1,0,9.0,,3
+2315,13000002314,1303,2,0,7.0,Tardó un poco más de lo esperado,32
+2316,13000002315,917,2,0,6.0,Podría mejorar el empaque,25
+2317,13000002316,153,1,0,9.0,Tardó un poco más de lo esperado,32
+2318,13000002317,1033,1,0,10.0,Atención muy buena,18
+2319,13000002318,323,2,0,5.0,Muy conforme con la calidad,27
+2320,13000002319,38,1,0,8.0,Todo perfecto,13
+2321,13000002320,1427,1,0,7.0,,3
+2322,13000002321,451,2,0,7.0,Podría mejorar el empaque,25
+2323,13000002322,883,2,0,10.0,Todo perfecto,13
+2324,13000002323,171,1,0,9.0,Muy conforme con la calidad,27
+2325,13000002324,1161,1,0,4.0,Tardó un poco más de lo esperado,32
+2326,13000002325,1450,1,0,3.0,Atención muy buena,18
+2327,13000002326,1079,2,0,8.0,Muy conforme con la calidad,27
+2328,13000002327,32,2,0,5.0,Muy conforme con la calidad,27
+2329,13000002328,1468,2,0,8.0,Muy conforme con la calidad,27
+2330,13000002329,940,1,0,9.0,Atención muy buena,18
+2331,13000002330,1290,1,0,10.0,Atención muy buena,18
+2332,13000002331,339,2,0,10.0,,3
+2333,13000002332,555,2,0,8.0,Volvería a comprar,18
+2334,13000002333,1048,1,0,6.0,,3
+2335,13000002334,1465,2,0,8.0,Muy conforme con la calidad,27
+2336,13000002335,700,1,0,8.0,Atención muy buena,18
+2337,13000002336,1280,2,0,8.0,Podría mejorar el empaque,25
+2338,13000002337,264,1,0,8.0,Volvería a comprar,18
+2339,13000002338,1476,1,0,9.0,,3
+2340,13000002339,283,2,0,6.0,Tardó un poco más de lo esperado,32
+2341,13000002340,1034,1,0,7.0,Muy conforme con la calidad,27
+2342,13000002341,61,1,0,8.0,Tardó un poco más de lo esperado,32
+2343,13000002342,1203,2,0,9.0,Muy conforme con la calidad,27
+2344,13000002343,298,2,0,9.0,Atención muy buena,18
+2345,13000002344,231,1,0,8.0,Atención muy buena,18
+2346,13000002345,141,1,0,5.0,Muy conforme con la calidad,27
+2347,13000002346,918,2,0,9.0,Atención muy buena,18
+2348,13000002347,494,2,0,9.0,Todo perfecto,13
+2349,13000002348,483,1,0,6.0,Entrega rápida y producto excelente,35
+2350,13000002349,1336,2,0,8.0,Muy conforme con la calidad,27
+2351,13000002350,541,1,0,9.0,Podría mejorar el empaque,25
+2352,13000002351,904,1,0,10.0,Tardó un poco más de lo esperado,32
+2353,13000002352,1406,2,0,8.0,,3
+2354,13000002353,945,2,0,10.0,Tardó un poco más de lo esperado,32
+2355,13000002354,892,2,0,9.0,Tardó un poco más de lo esperado,32
+2356,13000002355,1280,2,0,2.0,Volvería a comprar,18
+2357,13000002356,521,2,0,7.0,Volvería a comprar,18
+2358,13000002357,1077,2,0,10.0,Entrega rápida y producto excelente,35
+2359,13000002358,823,1,0,1.0,Todo perfecto,13
+2360,13000002359,175,1,0,5.0,Atención muy buena,18
+2361,13000002360,612,2,0,6.0,Tardó un poco más de lo esperado,32
+2362,13000002361,205,1,0,1.0,Entrega rápida y producto excelente,35
+2363,13000002362,924,1,0,9.0,,3
+2364,13000002363,698,1,0,6.0,Atención muy buena,18
+2365,13000002364,602,1,0,6.0,Muy conforme con la calidad,27
+2366,13000002365,910,1,0,4.0,Entrega rápida y producto excelente,35
+2367,13000002366,536,1,0,4.0,,3
+2368,13000002367,686,2,0,6.0,Volvería a comprar,18
+2369,13000002368,216,1,0,6.0,,3
+2370,13000002369,1296,1,0,7.0,Todo perfecto,13
+2371,13000002370,1176,1,0,10.0,Muy conforme con la calidad,27
+2372,13000002371,396,1,0,7.0,Tardó un poco más de lo esperado,32
+2373,13000002372,684,2,0,10.0,Todo perfecto,13
+2374,13000002373,650,2,0,9.0,Muy conforme con la calidad,27
+2375,13000002374,681,1,0,7.0,Atención muy buena,18
+2376,13000002375,892,1,0,4.0,Muy conforme con la calidad,27
+2377,13000002376,681,2,0,8.0,Entrega rápida y producto excelente,35
+2378,13000002377,618,1,0,7.0,,3
+2379,13000002378,1328,1,0,9.0,,3
+2380,13000002379,714,2,0,9.0,Atención muy buena,18
+2381,13000002380,585,2,0,9.0,Tardó un poco más de lo esperado,32
+2382,13000002381,630,2,0,8.0,Atención muy buena,18
+2383,13000002382,832,2,0,8.0,Muy conforme con la calidad,27
+2384,13000002383,995,1,0,9.0,Podría mejorar el empaque,25
+2385,13000002384,1347,2,0,8.0,Podría mejorar el empaque,25
+2386,13000002385,897,1,0,8.0,Podría mejorar el empaque,25
+2387,13000002386,732,2,0,10.0,Atención muy buena,18
+2388,13000002387,1068,1,0,4.0,Volvería a comprar,18
+2389,13000002388,486,1,0,6.0,Volvería a comprar,18
+2390,13000002389,230,1,0,8.0,Muy conforme con la calidad,27
+2391,13000002390,389,1,0,8.0,Podría mejorar el empaque,25
+2392,13000002391,1217,1,0,5.0,Volvería a comprar,18
+2393,13000002392,598,2,0,7.0,Volvería a comprar,18
+2394,13000002393,4,1,0,8.0,Entrega rápida y producto excelente,35
+2395,13000002394,543,2,0,9.0,,3
+2396,13000002395,1454,1,0,9.0,Atención muy buena,18
+2397,13000002396,356,2,0,9.0,Entrega rápida y producto excelente,35
+2398,13000002397,1243,1,0,8.0,Atención muy buena,18
+2399,13000002398,1345,1,0,9.0,Tardó un poco más de lo esperado,32
+2400,13000002399,1233,1,0,8.0,Muy conforme con la calidad,27
+2401,13000002400,905,2,0,8.0,Muy conforme con la calidad,27
+2402,13000002401,686,1,0,3.0,Podría mejorar el empaque,25
+2403,13000002402,713,1,0,7.0,,3
+2404,13000002403,498,1,0,9.0,Volvería a comprar,18
+2405,13000002404,375,1,0,10.0,Atención muy buena,18
+2406,13000002405,816,1,0,7.0,Todo perfecto,13
+2407,13000002406,209,1,0,9.0,,3
+2408,13000002407,199,1,0,2.0,Muy conforme con la calidad,27
+2409,13000002408,437,2,0,7.0,Tardó un poco más de lo esperado,32
+2410,13000002409,415,2,0,4.0,Todo perfecto,13
+2411,13000002410,1479,1,0,5.0,Muy conforme con la calidad,27
+2412,13000002411,410,2,0,7.0,Atención muy buena,18
+2413,13000002412,657,2,0,7.0,Volvería a comprar,18
+2414,13000002413,1032,1,0,9.0,Atención muy buena,18
+2415,13000002414,1270,1,0,10.0,Tardó un poco más de lo esperado,32
+2416,13000002415,1408,1,0,10.0,,3
+2417,13000002416,682,2,0,2.0,Entrega rápida y producto excelente,35
+2418,13000002417,447,1,0,7.0,Entrega rápida y producto excelente,35
+2419,13000002418,1398,2,0,9.0,Atención muy buena,18
+2420,13000002419,530,2,0,9.0,Tardó un poco más de lo esperado,32
+2421,13000002420,849,2,0,8.0,,3
+2422,13000002421,771,2,0,6.0,Todo perfecto,13
+2423,13000002422,200,1,0,6.0,Muy conforme con la calidad,27
+2424,13000002423,954,1,0,9.0,Atención muy buena,18
+2425,13000002424,241,1,0,8.0,Tardó un poco más de lo esperado,32
+2426,13000002425,1080,2,0,4.0,,3
+2427,13000002426,1071,2,0,6.0,Muy conforme con la calidad,27
+2428,13000002427,481,1,0,8.0,Podría mejorar el empaque,25
+2429,13000002428,658,1,0,8.0,Todo perfecto,13
+2430,13000002429,302,1,0,2.0,Todo perfecto,13
+2431,13000002430,472,2,0,5.0,Podría mejorar el empaque,25
+2432,13000002431,1251,1,0,7.0,Volvería a comprar,18
+2433,13000002432,1203,2,0,8.0,Volvería a comprar,18
+2434,13000002433,598,2,0,7.0,Atención muy buena,18
+2435,13000002434,1378,2,0,8.0,Entrega rápida y producto excelente,35
+2436,13000002435,31,2,0,9.0,Entrega rápida y producto excelente,35
+2437,13000002436,330,1,0,9.0,Atención muy buena,18
+2438,13000002437,673,2,0,8.0,Atención muy buena,18
+2439,13000002438,659,1,0,9.0,Entrega rápida y producto excelente,35
+2440,13000002439,211,1,0,2.0,Volvería a comprar,18
+2441,13000002440,506,1,0,9.0,,3
+2442,13000002441,1288,1,0,7.0,Muy conforme con la calidad,27
+2443,13000002442,1422,2,0,5.0,Atención muy buena,18
+2444,13000002443,1011,1,0,2.0,Volvería a comprar,18
+2445,13000002444,154,2,0,5.0,Tardó un poco más de lo esperado,32
+2446,13000002445,914,1,0,6.0,Volvería a comprar,18
+2447,13000002446,1362,1,0,6.0,Todo perfecto,13
+2448,13000002447,75,1,0,4.0,Tardó un poco más de lo esperado,32
+2449,13000002448,801,2,0,8.0,Podría mejorar el empaque,25
+2450,13000002449,1174,2,0,8.0,Tardó un poco más de lo esperado,32
+2451,13000002450,560,1,0,7.0,,3
+2452,13000002451,1286,1,0,9.0,Atención muy buena,18
+2453,13000002452,866,1,0,8.0,Volvería a comprar,18
+2454,13000002453,952,1,0,10.0,Volvería a comprar,18
+2455,13000002454,553,1,0,6.0,Volvería a comprar,18
+2456,13000002455,1238,1,0,0.0,Entrega rápida y producto excelente,35
+2457,13000002456,683,2,0,10.0,Tardó un poco más de lo esperado,32
+2458,13000002457,598,1,0,9.0,Todo perfecto,13
+2459,13000002458,1302,1,0,4.0,Atención muy buena,18
+2460,13000002459,85,1,0,1.0,Todo perfecto,13
+2461,13000002460,723,1,0,10.0,,3
+2462,13000002461,15,1,0,4.0,Volvería a comprar,18
+2463,13000002462,486,2,0,9.0,Entrega rápida y producto excelente,35
+2464,13000002463,726,2,0,10.0,Atención muy buena,18
+2465,13000002464,1348,1,0,8.0,Volvería a comprar,18
+2466,13000002465,28,1,0,8.0,Muy conforme con la calidad,27
+2467,13000002466,113,1,0,10.0,,3
+2468,13000002467,1433,2,0,8.0,,3
+2469,13000002468,479,1,0,7.0,Entrega rápida y producto excelente,35
+2470,13000002469,647,1,0,10.0,Muy conforme con la calidad,27
+2471,13000002470,62,1,0,6.0,Tardó un poco más de lo esperado,32
+2472,13000002471,112,1,0,4.0,Muy conforme con la calidad,27
+2473,13000002472,416,2,0,6.0,Muy conforme con la calidad,27
+2474,13000002473,907,2,0,10.0,Todo perfecto,13
+2475,13000002474,310,1,0,8.0,Podría mejorar el empaque,25
+2476,13000002475,889,1,0,3.0,Todo perfecto,13
+2477,13000002476,339,1,0,7.0,Entrega rápida y producto excelente,35
+2478,13000002477,418,2,0,4.0,Volvería a comprar,18
+2479,13000002478,713,1,0,9.0,,3
+2480,13000002479,462,2,0,10.0,Volvería a comprar,18
+2481,13000002480,1091,1,0,7.0,Todo perfecto,13
+2482,13000002481,867,1,0,10.0,Entrega rápida y producto excelente,35
+2483,13000002482,1237,1,0,10.0,Muy conforme con la calidad,27
+2484,13000002483,1441,1,0,9.0,Muy conforme con la calidad,27
+2485,13000002484,633,2,0,3.0,Muy conforme con la calidad,27
+2486,13000002485,204,1,0,9.0,,3
+2487,13000002486,1234,1,0,9.0,Tardó un poco más de lo esperado,32
+2488,13000002487,201,2,0,5.0,Atención muy buena,18
+2489,13000002488,1015,2,0,9.0,Podría mejorar el empaque,25
+2490,13000002489,385,2,0,7.0,Atención muy buena,18
+2491,13000002490,1099,1,0,8.0,Atención muy buena,18
+2492,13000002491,728,1,0,10.0,Muy conforme con la calidad,27
+2493,13000002492,1451,2,0,7.0,Tardó un poco más de lo esperado,32
+2494,13000002493,358,1,0,5.0,Podría mejorar el empaque,25
+2495,13000002494,856,2,0,10.0,Atención muy buena,18
+2496,13000002495,3,1,0,10.0,Todo perfecto,13
+2497,13000002496,732,1,0,9.0,Podría mejorar el empaque,25
+2498,13000002497,1410,1,0,10.0,Volvería a comprar,18
+2499,13000002498,138,2,0,7.0,Todo perfecto,13
+2500,13000002499,243,2,0,10.0,Podría mejorar el empaque,25
+2501,13000002500,32,1,0,8.0,Todo perfecto,13
+2502,13000002501,1280,2,0,9.0,Atención muy buena,18
+2503,13000002502,345,1,0,8.0,,3
+2504,13000002503,220,1,0,8.0,Todo perfecto,13
+2505,13000002504,1296,1,0,3.0,Atención muy buena,18
+2506,13000002505,547,1,0,10.0,Tardó un poco más de lo esperado,32
+2507,13000002506,1169,2,0,7.0,Volvería a comprar,18
+2508,13000002507,1217,2,0,7.0,Volvería a comprar,18
+2509,13000002508,126,1,0,8.0,Atención muy buena,18
+2510,13000002509,843,1,0,10.0,Todo perfecto,13
+2511,13000002510,1260,1,0,9.0,Tardó un poco más de lo esperado,32
+2512,13000002511,171,1,0,8.0,Volvería a comprar,18
+2513,13000002512,889,2,0,7.0,,3
+2514,13000002513,1012,2,0,4.0,Entrega rápida y producto excelente,35
+2515,13000002514,1418,2,0,6.0,Volvería a comprar,18
+2516,13000002515,677,2,0,10.0,Atención muy buena,18
+2517,13000002516,979,1,0,4.0,Volvería a comprar,18
+2518,13000002517,326,2,0,8.0,,3
+2519,13000002518,522,2,0,10.0,Tardó un poco más de lo esperado,32
+2520,13000002519,1326,2,0,8.0,,3
+2521,13000002520,228,1,0,8.0,Podría mejorar el empaque,25
+2522,13000002521,1093,2,0,6.0,Muy conforme con la calidad,27
+2523,13000002522,587,1,0,8.0,,3
+2524,13000002523,873,1,0,9.0,,3
+2525,13000002524,733,2,0,9.0,Muy conforme con la calidad,27
+2526,13000002525,276,1,0,7.0,Volvería a comprar,18
+2527,13000002526,1428,2,0,10.0,Volvería a comprar,18
+2528,13000002527,199,2,0,6.0,Todo perfecto,13
+2529,13000002528,221,1,0,9.0,Muy conforme con la calidad,27
+2530,13000002529,1015,2,0,10.0,,3
+2531,13000002530,6,1,0,6.0,Volvería a comprar,18
+2532,13000002531,1061,2,0,9.0,,3
+2533,13000002532,1271,1,0,10.0,Muy conforme con la calidad,27
+2534,13000002533,619,1,0,5.0,Tardó un poco más de lo esperado,32
+2535,13000002534,698,2,0,7.0,Volvería a comprar,18
+2536,13000002535,1484,1,0,9.0,Podría mejorar el empaque,25
+2537,13000002536,1316,1,0,8.0,,3
+2538,13000002537,1034,1,0,8.0,Podría mejorar el empaque,25
+2539,13000002538,790,2,0,7.0,Todo perfecto,13
+2540,13000002539,1399,2,0,5.0,Volvería a comprar,18
+2541,13000002540,1045,1,0,7.0,Podría mejorar el empaque,25
+2542,13000002541,59,2,0,9.0,Atención muy buena,18
+2543,13000002542,244,1,0,9.0,Atención muy buena,18
+2544,13000002543,408,1,0,9.0,Muy conforme con la calidad,27
+2545,13000002544,259,2,0,4.0,Entrega rápida y producto excelente,35
+2546,13000002545,960,2,0,9.0,Podría mejorar el empaque,25
+2547,13000002546,878,2,0,9.0,Atención muy buena,18
+2548,13000002547,584,1,0,1.0,,3
+2549,13000002548,397,1,0,6.0,,3
+2550,13000002549,167,2,0,9.0,Tardó un poco más de lo esperado,32
+2551,13000002550,1216,2,0,4.0,Todo perfecto,13
+2552,13000002551,1271,1,0,1.0,Muy conforme con la calidad,27
+2553,13000002552,1293,1,0,7.0,Podría mejorar el empaque,25
+2554,13000002553,223,2,0,4.0,Volvería a comprar,18
+2555,13000002554,201,2,0,6.0,Podría mejorar el empaque,25
+2556,13000002555,342,1,0,7.0,Tardó un poco más de lo esperado,32
+2557,13000002556,913,1,0,6.0,Podría mejorar el empaque,25
+2558,13000002557,752,1,0,0.0,Atención muy buena,18
+2559,13000002558,78,1,0,9.0,Todo perfecto,13
+2560,13000002559,60,2,0,9.0,Tardó un poco más de lo esperado,32
+2561,13000002560,1254,1,0,7.0,Muy conforme con la calidad,27
+2562,13000002561,183,1,0,7.0,Tardó un poco más de lo esperado,32
+2563,13000002562,591,2,0,5.0,Todo perfecto,13
+2564,13000002563,849,1,0,9.0,Podría mejorar el empaque,25
+2565,13000002564,1248,2,0,8.0,Podría mejorar el empaque,25
+2566,13000002565,741,2,0,6.0,Tardó un poco más de lo esperado,32
+2567,13000002566,1133,2,0,10.0,Tardó un poco más de lo esperado,32
+2568,13000002567,844,1,0,5.0,Entrega rápida y producto excelente,35
+2569,13000002568,313,1,0,4.0,Tardó un poco más de lo esperado,32
+2570,13000002569,891,2,0,7.0,Entrega rápida y producto excelente,35
+2571,13000002570,195,1,0,4.0,Entrega rápida y producto excelente,35
+2572,13000002571,642,1,0,8.0,Atención muy buena,18
+2573,13000002572,569,1,0,10.0,Muy conforme con la calidad,27
+2574,13000002573,1237,1,0,9.0,,3
+2575,13000002574,1407,1,0,8.0,Tardó un poco más de lo esperado,32
+2576,13000002575,1207,1,0,7.0,Volvería a comprar,18
+2577,13000002576,1236,1,0,7.0,Entrega rápida y producto excelente,35
+2578,13000002577,1279,1,0,9.0,Todo perfecto,13
+2579,13000002578,1439,1,0,8.0,Tardó un poco más de lo esperado,32
+2580,13000002579,858,1,0,7.0,Atención muy buena,18
+2581,13000002580,1479,2,0,9.0,Muy conforme con la calidad,27
+2582,13000002581,924,2,0,7.0,Entrega rápida y producto excelente,35
+2583,13000002582,382,2,0,8.0,Todo perfecto,13
+2584,13000002583,16,1,0,7.0,Muy conforme con la calidad,27
+2585,13000002584,862,1,0,8.0,Entrega rápida y producto excelente,35
+2586,13000002585,234,2,0,9.0,Todo perfecto,13
+2587,13000002586,475,2,0,6.0,Entrega rápida y producto excelente,35
+2588,13000002587,392,1,0,10.0,Tardó un poco más de lo esperado,32
+2589,13000002588,1141,1,0,6.0,Tardó un poco más de lo esperado,32
+2590,13000002589,183,1,0,2.0,Atención muy buena,18
+2591,13000002590,524,1,0,10.0,,3
+2592,13000002591,690,1,0,8.0,Todo perfecto,13
+2593,13000002592,284,1,0,5.0,Atención muy buena,18
+2594,13000002593,860,1,0,10.0,Tardó un poco más de lo esperado,32
+2595,13000002594,991,2,0,10.0,,3
+2596,13000002595,163,2,0,7.0,Todo perfecto,13
+2597,13000002596,1364,1,0,9.0,Todo perfecto,13
+2598,13000002597,1233,2,0,9.0,Muy conforme con la calidad,27
+2599,13000002598,1009,1,0,7.0,Volvería a comprar,18
+2600,13000002599,822,1,0,3.0,Todo perfecto,13
+2601,13000002600,1198,1,0,9.0,Todo perfecto,13
+2602,13000002601,652,1,0,9.0,Entrega rápida y producto excelente,35
+2603,13000002602,293,1,0,8.0,Atención muy buena,18
+2604,13000002603,9,2,0,5.0,Podría mejorar el empaque,25
+2605,13000002604,967,1,0,0.0,Tardó un poco más de lo esperado,32
+2606,13000002605,1090,1,0,10.0,Muy conforme con la calidad,27
+2607,13000002606,1324,1,0,7.0,Volvería a comprar,18
+2608,13000002607,212,1,0,4.0,Tardó un poco más de lo esperado,32
+2609,13000002608,77,1,0,8.0,,3
+2610,13000002609,1261,1,0,9.0,Muy conforme con la calidad,27
+2611,13000002610,820,1,0,8.0,Tardó un poco más de lo esperado,32
+2612,13000002611,1321,1,0,7.0,Entrega rápida y producto excelente,35
+2613,13000002612,709,2,0,7.0,Todo perfecto,13
+2614,13000002613,1325,1,0,10.0,Muy conforme con la calidad,27
+2615,13000002614,1339,1,0,7.0,Tardó un poco más de lo esperado,32
+2616,13000002615,136,1,0,3.0,Entrega rápida y producto excelente,35
+2617,13000002616,459,2,0,7.0,Atención muy buena,18
+2618,13000002617,334,2,0,4.0,Muy conforme con la calidad,27
+2619,13000002618,260,2,0,10.0,Muy conforme con la calidad,27
+2620,13000002619,264,2,0,8.0,Entrega rápida y producto excelente,35
+2621,13000002620,1060,1,0,10.0,Podría mejorar el empaque,25
+2622,13000002621,433,1,0,10.0,Tardó un poco más de lo esperado,32
+2623,13000002622,1056,2,0,10.0,,3
+2624,13000002623,246,1,0,9.0,,3
+2625,13000002624,1033,1,0,10.0,Atención muy buena,18
+2626,13000002625,1148,2,0,8.0,Entrega rápida y producto excelente,35
+2627,13000002626,511,1,0,10.0,Tardó un poco más de lo esperado,32
+2628,13000002627,264,1,0,9.0,Podría mejorar el empaque,25
+2629,13000002628,553,1,0,9.0,Volvería a comprar,18
+2630,13000002629,196,1,0,2.0,,3
+2631,13000002630,203,2,0,1.0,Volvería a comprar,18
+2632,13000002631,1076,2,0,4.0,Todo perfecto,13
+2633,13000002632,829,1,0,4.0,Atención muy buena,18
+2634,13000002633,245,1,0,10.0,Entrega rápida y producto excelente,35
+2635,13000002634,240,2,0,10.0,Todo perfecto,13
+2636,13000002635,1173,1,0,8.0,Atención muy buena,18
+2637,13000002636,243,2,0,8.0,Volvería a comprar,18
+2638,13000002637,1490,1,0,9.0,Podría mejorar el empaque,25
+2639,13000002638,583,2,0,7.0,,3
+2640,13000002639,1216,2,0,6.0,,3
+2641,13000002640,581,2,0,8.0,Atención muy buena,18
+2642,13000002641,136,1,0,0.0,Todo perfecto,13
+2643,13000002642,149,2,0,6.0,Muy conforme con la calidad,27
+2644,13000002643,1450,1,0,9.0,Muy conforme con la calidad,27
+2645,13000002644,722,1,0,8.0,Todo perfecto,13
+2646,13000002645,1389,1,0,9.0,Muy conforme con la calidad,27
+2647,13000002646,90,2,0,9.0,Atención muy buena,18
+2648,13000002647,1330,1,0,8.0,,3
+2649,13000002648,1170,1,0,2.0,Entrega rápida y producto excelente,35
+2650,13000002649,154,1,0,7.0,,3
+2651,13000002650,369,1,0,7.0,Muy conforme con la calidad,27
+2652,13000002651,70,2,0,8.0,Entrega rápida y producto excelente,35
+2653,13000002652,488,1,0,3.0,Tardó un poco más de lo esperado,32
+2654,13000002653,1059,2,0,7.0,Podría mejorar el empaque,25
+2655,13000002654,1459,1,0,0.0,Atención muy buena,18
+2656,13000002655,1124,1,0,10.0,Tardó un poco más de lo esperado,32
+2657,13000002656,1030,1,0,5.0,,3
+2658,13000002657,210,1,0,6.0,Entrega rápida y producto excelente,35
+2659,13000002658,184,1,0,9.0,Tardó un poco más de lo esperado,32
+2660,13000002659,513,2,0,7.0,Todo perfecto,13
+2661,13000002660,11,2,0,8.0,Podría mejorar el empaque,25
+2662,13000002661,762,1,0,8.0,,3
+2663,13000002662,385,1,0,5.0,Entrega rápida y producto excelente,35
+2664,13000002663,1061,2,0,6.0,,3
+2665,13000002664,820,1,0,8.0,Atención muy buena,18
+2666,13000002665,662,1,0,1.0,,3
+2667,13000002666,1419,1,0,9.0,Volvería a comprar,18
+2668,13000002667,1384,2,0,10.0,Tardó un poco más de lo esperado,32
+2669,13000002668,324,2,0,10.0,Volvería a comprar,18
+2670,13000002669,547,2,0,10.0,Volvería a comprar,18
+2671,13000002670,147,2,0,7.0,Muy conforme con la calidad,27
+2672,13000002671,548,1,0,7.0,Muy conforme con la calidad,27
+2673,13000002672,610,2,0,9.0,Todo perfecto,13
+2674,13000002673,20,1,0,8.0,Volvería a comprar,18
+2675,13000002674,560,2,0,1.0,,3
+2676,13000002675,28,2,0,8.0,Entrega rápida y producto excelente,35
+2677,13000002676,310,1,0,2.0,Podría mejorar el empaque,25
+2678,13000002677,879,2,0,10.0,Todo perfecto,13
+2679,13000002678,819,1,0,3.0,Atención muy buena,18
+2680,13000002679,1406,2,0,7.0,Tardó un poco más de lo esperado,32
+2681,13000002680,298,2,0,8.0,,3
+2682,13000002681,1210,1,0,9.0,Muy conforme con la calidad,27
+2683,13000002682,538,1,0,9.0,Entrega rápida y producto excelente,35
+2684,13000002683,566,2,0,8.0,Volvería a comprar,18
+2685,13000002684,1469,1,0,9.0,Muy conforme con la calidad,27
+2686,13000002685,1428,2,0,8.0,Volvería a comprar,18
+2687,13000002686,1398,1,0,4.0,Tardó un poco más de lo esperado,32
+2688,13000002687,899,1,0,4.0,Entrega rápida y producto excelente,35
+2689,13000002688,806,1,0,7.0,Podría mejorar el empaque,25
+2690,13000002689,1464,2,0,7.0,Volvería a comprar,18
+2691,13000002690,1105,2,0,7.0,,3
+2692,13000002691,847,1,0,9.0,Volvería a comprar,18
